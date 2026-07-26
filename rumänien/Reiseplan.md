@@ -2,30 +2,31 @@
 
 **Zeitraum:** Sa 12.9. – Sa 3.10.2026 (21 Nächte)
 **Start/Ziel:** Berlin Hbf
-**Route:** Berlin → Brünn → Budapest → (Nachtzug Ister) → **Brașov (4-Nächte-Basis mit Tagesausflügen)** → (Mietwagen) Târgu Mureș → Maramureș-Stützpunkt (3 Nächte) → Cluj (2 Nächte + Salzmine Turda) → Bukarest (BIEFF, 5 Nächte) → (Nachtzug) → Budapest → Berlin
+**Route:** Berlin → Brünn → Budapest → (Nachtzug Ister) → **Brașov (4-Nächte-Basis mit Tagesausflügen)** → (Mietwagen) Târgu Mureș → **Giulești / Iza-Tal (3 Nächte)** → Cluj (2 Nächte + Salzmine Turda) → Bukarest (BIEFF, 5 Nächte) → (Nachtzug) → Budapest → Berlin
 
 > **Fixpunkt:** BIEFF – Bucharest International Experimental Film Festival, **16. Ausgabe, 23.–30.9.2026**. Wir sind **Sa 26.9. – Mi 30.9.** dabei (volle zweite Festivalhälfte, **5 Nächte Bukarest**).
 > **Grundsatz:** keine Flüge – alle Etappen per Zug/Auto.
 
 ---
 
-## Wochentag-Übersicht 2026
+## 💰 Kosten-Tracker
 
-| Datum | Wochentag |
-|---|---|
-| **12.9.2026** | **Samstag** (Abfahrt Berlin) |
-| 14.9.2026 | Montag (Ister abends) |
-| 15.9.2026 | Dienstag (Ister → Brașov, **Auto-Übernahme**, Stadt-PM) |
-| 18.9.2026 | Freitag (Brașov-Tagestour Sibiu/Transfăgărășan) |
-| 19.9.2026 | Samstag (→ Târgu Mureș) |
-| 20.9.2026 | Sonntag (→ Maramureș-Stützpunkt) |
-| 23.9.2026 | Mittwoch (BIEFF-Start – wir sind im Maramureș/Cluj) |
-| 24.9.2026 | Donnerstag (Cluj + Salzmine Turda) |
-| 25.9.2026 | Freitag (Auto-Rückgabe + → Bukarest) |
-| 30.9.2026 | Mittwoch (BIEFF-Ende, Nachtzug ab) |
-| 1.10.2026 | Donnerstag (Budapest) |
-| 2.10.2026 | Freitag (Budapest) |
-| **3.10.2026** | **Samstag** (Rückkehr Berlin) |
+| # | Posten | Betrag | Status |
+|---|--------|--------|--------|
+| 1 | Brünn – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
+| 2 | 🏠 **Brașov – Airbnb** (4 Nächte, Di 15. – Sa 19.9., Strada Cloșca 21) | **275 €** | ✅ Gebucht (stornierbar bis 10.9.) |
+| 3 | Târgu Mureș – Unterkunft (1 Nacht) | – | ❌ Noch nicht |
+| 4 | 🏠 **Giulești – Wood & Bricks Chalet** (3 Nächte, So 20. – Mi 23.9.) | **253 €** | ✅ Gebucht (stornierbar bis 13.9.) |
+| 5 | Cluj – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
+| 6 | Bukarest – Unterkunft (5 Nächte) | – | ❌ Noch nicht |
+| 7 | Budapest – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
+| 8  | Mietwagen (Di 15.9. – Fr 25.9., 10 Tage) | – | ❌ Noch nicht |
+| 9  | 🚂 **Hinfahrt Berlin → Brno** (12.9., via Praha) | **53 €** | ✅ Gebucht |
+| 10 | 🚂 **Brno → Budapest** (14.9., via Wien) | – | ❌ Noch nicht |
+| 11 | 🚂 Nachtzug Budapest → Brașov (IC 473) | – | ❌ Noch nicht |
+| 12 | 🚂 Nachtzug Bukarest → Budapest (IC 472) | – | ❌ Noch nicht |
+| 13 | 🚂 **Rückfahrt Budapest → Berlin** (3.10., via Praha) | **93 €** | ✅ Gebucht |
+| | **Summe bisher** | **674 €** | |
 
 ---
 
@@ -50,9 +51,8 @@
 
 ## 1. Hinweg: Berlin → Brünn (Tagzug)
 
-**Sa 12.9.2026, ca. 7 h gesamt.**
-- **Berlin Hbf → Praha hl.n.**: EuroCity (EC), ca. **4 h 20 – 4 h 40 min**, stündlich, direkt.
-- **Praha hl.n. → Brno hl.n.**: Regiojet oder ČD, ca. **2 h 30 min**.
+**Sa 12.9.2026, gebucht ✅ — 53 €:**
+- **Berlin Hbf → Brno hl.n.**: RJ 171 + EC 279, ab 07:28, an 14:13 (via Praha)
 - *Tipp:* Regiojet „Standard" (regiojet.cz / cd.cz / trainline). DB-Sparpreis Berlin–Praha ~4–6 Wochen vorher.
 
 ➡️ Ankunft Brno Samstagabend.
@@ -68,7 +68,6 @@
 - https://www.booking.com/Share-QCB314
 
 **Sehenswertes:**
-- **Villa Tugendhat** (UNESCO) → **Wochen vorher buchen!** id.villatugendhat.eu
 - Špilberk-Festung, Altstadt, **Zelný trh**-Marktplatz, Labyrinth unter dem Markt
 - Optional Tagesausflug: **Lednice/Valtice** (UNESCO-Gartenreich)
 
@@ -114,7 +113,7 @@ Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
 
 Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends immer zurück nach Brașov. Deckt Süd-/Zentralsiebenbürgen komplett ab.
 
-**Unterkunft:** schön + günstig + alle guten Restaurants in der Nähe → **schnell buchen!** https://www.booking.com/Share-y8BkFm
+**Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, stornierbar bis 10.9. ✅ Gebucht
 
 **Essen / Trinken in Brașov:**
 - **Panoramic Restaurant** – *Panoramic Signature Tasting Menu* (67 €) – https://www.panoramicbrasov.ro/en/offers
@@ -168,13 +167,15 @@ Karpaten-Wetter im späten Sept.: tagsüber meist angenehm (15–22 °C), aber *
 
 **Übernahme:** Brașov (Di 15.9.). **Rückgabe:** Cluj **oder** Brașov (s. Etappe 7 – nach Autovermietung-Preisen entscheiden).
 
+> **Fokus:** Natur-Mix mit sanften Wanderungen + Holzkirchen; kein Rodna, kein Fröhlicher Friedhof (kein Interesse).
+
 ### Loop-Übersicht (Nordwest-Schleife)
 
 ```
 Brașov ──▶ Târgu Mureș (1 Nacht) ──▶ MARAMUREȘ-Stützpunkt (3 Nächte)
                                             │
                                             ▼
-                              Bukarest ◀── (Zug/Auto) ◀── CLUJ (2 Nächte)
+           Bukarest ◀── (Zug/Auto) ◀── CLUJ (2 Nächte)
 ```
 
 ### Tägliche Logik
@@ -183,23 +184,30 @@ Brașov ──▶ Târgu Mureș (1 Nacht) ──▶ MARAMUREȘ-Stützpunkt (3 N�
 |---|---|---|---|
 | Sa | 19.9. | Brașov → **Târgu Mureș** (~3 h): Piața Trandafirilor, Kulturpalast, Orthodoxe Kathedrale | **Târgu Mureș** |
 | So | 20.9. | → **Maramureș-Stützpunkt** (z.B. Sighetu Marmației / Vișeu / Breb) | **Maramureș** |
-| Mo | 21.9. | **Săpânța (Fröhlicher Friedhof)** + Holzkirchen (Bârsana, Ieud) | **Maramureș** |
-| Di | 22.9. | **Optional: Mocănița-Dampflok** (Vișeu, Vormittag – nur sinnvoll ab östlichem Stützpunkt) **ODER** Sighet (Gedenkstätte + Dorfmuseum) + weitere Holzkirchen (Plopis, Rogoz) | **Maramureș** |
+| Mo | 21.9. | **Iza-Tal Natur-Tag**: Vormittag sanfte Wanderung ab Giulești / Berbești (Talwanderung, ~2–3 h, keine Hm) → Nachmittag **Holzkirchen-Rundfahrt Ost**: Poienile Izei → Ieud → Bârsana | **Giulești** |
+| Di | 22.9. | **Option 1:** Mocănița-Waldbahn (Vișeu) vormittags + nachm. **Holzkirchen West**: Desești → Șurdești / Sighet-Dorfmuseum. **Option 2:** Nur Holzkirchen (komplett entspannt). | **Giulești** |
 | Mi | 23.9. | Maramureș → **Cluj** (Ankunft, Stadt-PM: Piața Unirii, Crucea-Panorama) | **Cluj** |
 | Do | 24.9. | **Tagesausflug Salzmine Turda** (~45 min, Spektakel **mit unterirdischem Riesenrad!**); Nachmittag Cluj (Botanischer Garten, Etnografisches Museum) | **Cluj** |
 
-### Maramureș-Stützpunkt (3 Nächte, So 20. – Di 22.9.) – **noch offen**
+### Maramureș-Stützpunkt: Giulești – Wood & Bricks Chalet (3 Nächte, So 20. – Mi 23.9.) ✅ GEbucht
 
-3 Nächte für **Săpânța + Holzkirchen + (optional) Mocănița**. Stützpunkt **offen halten** – die Entscheidung hängt an der Mocănița-Frage:
+**Unterkunft:** [Wood & Bricks Chalet](https://www.booking.com/hotel/ro/sipot-chalet.html), Principala 472B, Giulești (4★, Terrasse, Küche, eigener Garten) — **253 € für 3 Nächte**.
 
-- **Baia Mare** – komfortable Kreisstadt (hübsche Piața Libertății, Stephansturm, Cafés), **auf der Korridorstrecke** Târgu Mureș→Cluj (kein Umweg!), mit **Freilichtmuseum** (Option #5). *Aber:* Mocănița (Vișeu de Sus) ~2 h entfernt → langer Tag.
-- **Breb / Valea Izei** – **sehr ländlich**, authentisch (Holztore, Dorfleben), nahe allen Sites inkl. Mocănița (~45 min). *Aber:* Sackgasse (Baia-Mare-Achse rein + wieder raus). → **Freilichtmuseum Sighet** (Option #3).
+**Lage:** Zentral im Iza-Tal – ideal für Holzkirchen und sanfte Wanderungen.
 
-**Daumenregel:**
-- Mocănița **fest geplant** → östlicher Stützpunkt (**Breb/Vișeu**).
-- Mocănița **(fast) gestrichen** → **Baia Mare** (komfortabel, logistisch sauber).
-
-**Freilichtmuseum je nach Stützpunkt:** östlich → **Sighet**; westlich → **Baia Mare**.
+| Ziel | Fahrzeit ab Chalet |
+|---|---|
+| **Poienile Izei** (Höllen-Malereien) | ~10 min |
+| **Desești** (filigrane Bemalung) | ~15 min |
+| **Budești** (Ikonen auf Holz) | ~15 min |
+| **Breb** (berühmtestes Dorf) | ~18 min |
+| **Ieud Deal** (älteste Holzkirche, 1364) | ~20 min |
+| **Bârsana** (Mănăstirea, die malerischste) | ~25 min |
+| **Șurdești** (höchster Holzkirchturm, 54 m) | ~25 min |
+| **Sighetu Marmației** (Dorfmuseum + Gedenkstätte) | ~35 min |
+| **Mocănița / Vișeu de Sus** (Wassertal-Waldbahn) | ~40 min |
+| **Săpânța** (Fröhlicher Friedhof) | ~45 min |
+| **Borșa** (Rodna-Gebirge) | ~1 h 15 min |
 
 ### Cluj-Unterkünfte (2 Nächte, Mi 23. – Do 24.9.)
 - **mit Parkplatz** (~116 €) – https://www.booking.com/Share-xMxaMKd
@@ -277,12 +285,11 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 
 ## 11. Rückfahrt Budapest → Berlin
 
-**Sa 3.10.2026 (~11–13 h):**
-- Budapest-Keleti → Wien Hbf (Railjet ~2 h 30)
-- Wien Hbf → Berlin Hbf (Railjet/ICE via Praha ~8–9 h)
-- *Alternative:* in Wien auf **ÖBB Nightjet Wien → Berlin** (abends, Ankunft So 4.10.) – dann Rückkehr Sonntag.
+**Sa 3.10.2026, gebucht ✅ — 93 €:**
+- **Budapest-Nyugati → Praha hl.n.**: EC 278, ab 09:30, an 16:23 (2 Plätze, Abteil, Wg. 369, Pl. 15/16)
+- **Praha hl.n. → Berlin Hbf**: RJ 172, ab 16:31, an 20:29 (2 Plätze, Großraum, Wg. 257, Pl. 91/93)
 
-➡️ **Ankunft Berlin Samstagabend 3.10.** ✅
+➡️ **Ankunft Berlin Samstagabend 20:29** ✅
 
 ---
 
@@ -320,7 +327,6 @@ Damit ihr wisst, was links liegen bleibt:
 
 ## Buchungs-Checkliste
 
-- [ ] **Villa Tugendhat Brno** (4–6 Wochen vorher)
 - [ ] **Mocănița-Dampflok** (Vișeu, Maramureș) – nur falls fest eingeplant; Tickets vorab
 - [ ] **Nachtzug IC 473 Budapest → Brașov** – Schlaf-/Liegewagen (gehen schnell!)
 - [ ] **Nachtzug IC 472 Bukarest → Budapest** – Reservierung
