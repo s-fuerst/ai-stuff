@@ -9,43 +9,25 @@
 
 ---
 
-## 💰 Kosten-Tracker
+## Etappen- & Kosten-Übersicht
 
-| # | Posten | Betrag | Status |
-|---|--------|--------|--------|
-| 1 | Brünn – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
-| 2 | 🏠 **Brașov – Airbnb** (4 Nächte, Di 15. – Sa 19.9., Strada Cloșca 21) | **275 €** | ✅ Gebucht (stornierbar bis 10.9.) |
-| 3 | Târgu Mureș – Unterkunft (1 Nacht) | – | ❌ Noch nicht |
-| 4 | 🏠 **Giulești – Wood & Bricks Chalet** (3 Nächte, So 20. – Mi 23.9.) | **253 €** | ✅ Gebucht (stornierbar bis 13.9.) |
-| 5 | Cluj – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
-| 6 | Bukarest – Unterkunft (5 Nächte) | – | ❌ Noch nicht |
-| 7 | Budapest – Unterkunft (2 Nächte) | – | ❌ Noch nicht |
-| 8  | Mietwagen (Di 15.9. – Fr 25.9., 10 Tage) | – | ❌ Noch nicht |
-| 9  | 🚂 **Hinfahrt Berlin → Brno** (12.9., via Praha) | **53 €** | ✅ Gebucht |
-| 10 | 🚂 **Brno → Budapest** (14.9., via Wien) | – | ❌ Noch nicht |
-| 11 | 🚂 Nachtzug Budapest → Brașov (IC 473) | – | ❌ Noch nicht |
-| 12 | 🚂 Nachtzug Bukarest → Budapest (IC 472) | – | ❌ Noch nicht |
-| 13 | 🚂 **Rückfahrt Budapest → Berlin** (3.10., via Praha) | **93 €** | ✅ Gebucht |
-| | **Summe bisher** | **674 €** | |
-
----
-
-## Etappen-Übersicht
-
-| # | Etappe | Verkehr | Nächte |
-|---|---|---|---|
-| 1 | Berlin → Brno (via Praha) | Tagzug (EC + Regiojet) | – |
-| 2 | **Brünn** | – | 2 |
-| 3 | Brno → Budapest | Tagzug (via Wien) | – |
-| 4 | Budapest → Brașov | **Nachtzug „Ister" IC 473** | 1 (Zug) |
-| 5 | **Brașov-Basis** (Tagesausflüge) | Auto (ab Di) | 4 |
-| 6 | **Mietwagen-Loop**: Brașov → Târgu Mureș → Maramureș → Cluj | Auto | 6 |
-|   | davon Târgu Mureș (1) + Maramureș (3) + Cluj (2) |   | (6) |
-| 7 | Cluj → Bukarest | Auto+Zug (Round-Trip) **oder** Zug (One-Way) | – |
-| 8 | **Bukarest (BIEFF)** | – | 5 |
-| 9 | Bukarest → Budapest | **Nachtzug „Ister" IC 472** | 1 (Zug) |
-| 10 | **Budapest** | – | 2 |
-| 11 | Budapest → Berlin | Tagzug via Wien | – |
+| # | Etappe | Termine | Verkehr | Nächte | Kosten | Status |
+|---|---|---|---|---|---|---|
+| 1 | Berlin → Brno (via Praha) | 12.9. | 🚂 Tagzug (EC + Regiojet) | – | **53 €** | ✅ Gebucht |
+| 2 | **Brünn** | 12.9.–14.9. | – | 2 | – | ❌ Unterkunft |
+| 3 | Brno → Budapest | 14.9. | 🚂 Tagzug (via Wien) | – | – | ❌ Noch nicht |
+| 4 | Budapest → Brașov | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug) | – | ❌ Noch nicht |
+| 5 | **Brașov-Basis** (Tagesausflüge) | 15.9.–19.9. | 🚗 Auto | 4 | **275 €** | ✅ Airbnb (stornierbar bis 10.9.) |
+|   | 🚗 **Mietwagen** | 16.9.–25.9. |   |   | – | ❌ Noch nicht |
+| 6 | **Târgu Mureș** | 19.9.–20.9. | 🚗 Auto | 1 | – | ❌ Unterkunft |
+| 7 | **Maramureș** (Giulești) | 20.9.–23.9. | 🚗 Auto | 3 | **253 €** | ✅ Chalet (stornierbar bis 13.9.) |
+| 8 | **Cluj** (inkl. Salzmine Turda) | 23.9.–25.9. | 🚗 Auto | 2 | – | ❌ Unterkunft |
+| 9 | Cluj → Bukarest | 25.9. | 🚗+🚂 (Round-Trip) **oder** 🚂 (One-Way) | – | – | – |
+| 10 | **Bukarest (BIEFF)** | 25.9.–30.9. | – | 5 | – | ❌ Unterkunft |
+| 11 | Bukarest → Budapest | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug) | – | ❌ Noch nicht |
+| 12 | **Budapest** | 1.10.–3.10. | – | 2 | – | ❌ Unterkunft |
+| 13 | Budapest → Berlin | 3.10. | 🚂 Tagzug via Wien | – | **93 €** | ✅ Gebucht |
+| | | | | **Summe** | **674 €** | |
 
 ---
 
@@ -183,11 +165,25 @@ Brașov ──▶ Târgu Mureș (1 Nacht) ──▶ MARAMUREȘ-Stützpunkt (3 N�
 | Tag | Datum | Route / Highlights | Nacht in |
 |---|---|---|---|
 | Sa | 19.9. | Brașov → **Târgu Mureș** (~3 h): Piața Trandafirilor, Kulturpalast, Orthodoxe Kathedrale | **Târgu Mureș** |
-| So | 20.9. | → **Maramureș-Stützpunkt** (z.B. Sighetu Marmației / Vișeu / Breb) | **Maramureș** |
+| So | 20.9. | 🚗 Târgu Mureș → **🎪 Umweg: „Toamna Chioreană"-Festival, Remetea Chioarului** (ca. 1½ h extra) → **Giulești** Chalet | **Giulești** |
 | Mo | 21.9. | **Iza-Tal Natur-Tag**: Vormittag sanfte Wanderung ab Giulești / Berbești (Talwanderung, ~2–3 h, keine Hm) → Nachmittag **Holzkirchen-Rundfahrt Ost**: Poienile Izei → Ieud → Bârsana | **Giulești** |
 | Di | 22.9. | **Option 1:** Mocănița-Waldbahn (Vișeu) vormittags + nachm. **Holzkirchen West**: Desești → Șurdești / Sighet-Dorfmuseum. **Option 2:** Nur Holzkirchen (komplett entspannt). | **Giulești** |
 | Mi | 23.9. | Maramureș → **Cluj** (Ankunft, Stadt-PM: Piața Unirii, Crucea-Panorama) | **Cluj** |
 | Do | 24.9. | **Tagesausflug Salzmine Turda** (~45 min, Spektakel **mit unterirdischem Riesenrad!**); Nachmittag Cluj (Botanischer Garten, Etnografisches Museum) | **Cluj** |
+
+### 🎪 Abstecher: „Toamna Chioreană"-Festival (So 20.9.) ⚠️ Datum TBC
+
+Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului** (~1½ h extra).
+
+| | Details |
+|---|---|
+| **Was** | Folklore-Spektakel, Obst-/Gemüseausstellung, Handwerk, Ikonen |
+| **Wann** | Typischerweise **3. September-Wochenende (Sa+So)** → 2026 voraussichtlich **19.–20.9.** (Tag 2 = So) |
+| **Wo** | Curtea Școlii Gimnaziale, Remetea Chioarului |
+| **⏱️ Fahrzeit** | Târgu Mureș → Remetea Chioarului ~2 h → Giulești ~1¾ h |
+| **ℹ️ Bestätigung** | Tel. Primăria Remetea Chioarului: +40 262 288 212 |
+
+> ⚠️ Das genaue Datum für 2026 steht noch nicht offiziell fest. Im Sommer bei der Primăria nachfragen. Falls das Festival doch erst am 26.–27.9. stattfindet, passt es leider nicht (da schon Bukarest).
 
 ### Maramureș-Stützpunkt: Giulești – Wood & Bricks Chalet (3 Nächte, So 20. – Mi 23.9.) ✅ GEbucht
 
@@ -322,20 +318,6 @@ Damit ihr wisst, was links liegen bleibt:
 | **Moldau (Republik) / Chișinău** | östlich der Grenze | Extra-Land, eigener Trip. |
 
 > **Bottom Line:** Leicht nachrüstbar = **Transfăgărășan** (Brașov-Tagestour Fr 18.9.) und **Bucovina** (Maramureș-Tagestour). Alles andere (Donaudelta, Küste, Iași, Timișoara) = zweite Rumänien-Reise.
-
----
-
-## Buchungs-Checkliste
-
-- [ ] **Mocănița-Dampflok** (Vișeu, Maramureș) – nur falls fest eingeplant; Tickets vorab
-- [ ] **Nachtzug IC 473 Budapest → Brașov** – Schlaf-/Liegewagen (gehen schnell!)
-- [ ] **Nachtzug IC 472 Bukarest → Budapest** – Reservierung
-- [ ] **Mietwagen** – Preise Round-Trip (Brașov→Brașov) vs. One-Way (Brașov→Cluj) vergleichen → entscheidet Etappe 7
-- [ ] **Rovinieta** (rumän. Vignette) digital
-- [ ] Regiojet Praha → Brno
-- [ ] EC Berlin → Praha (DB Sparpreis)
-- [ ] BIEFF-Akkreditierung / Karten (bieff.ro)
-- [ ] **Unterkünfte:** Brno (2 Optionen am Bahnhof), Brașov-Basis (schnell buchen!), Cluj (3 Optionen) – s. Etappen
 
 ---
 
