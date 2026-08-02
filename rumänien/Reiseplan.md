@@ -11,23 +11,24 @@
 
 ## Etappen- & Kosten-Übersicht
 
-| # | Etappe | Termine | Verkehr | Nächte | Kosten | Status |
-|---|---|---|---|---|---|---|
-| 1 | Berlin → Brno (via Praha) | 12.9. | 🚂 Tagzug (EC + Regiojet) | – | **53 €** | ✅ Gebucht |
-| 2 | **Brünn** | 12.9.–14.9. | – | 2 | – | ❌ Unterkunft |
-| 3 | Brno → Budapest | 14.9. | 🚂 Tagzug (via Wien) | – | – | ❌ Noch nicht |
-| 4 | Budapest → Brașov | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug) | – | ❌ Noch nicht |
-| 5 | **Brașov-Basis** (Tagesausflüge) | 15.9.–19.9. | 🚗 Auto | 4 | **275 €** | ✅ Airbnb (stornierbar bis 10.9.) |
-|   | 🚗 **Mietwagen** | 16.9.–25.9. |   |   | – | ❌ Noch nicht |
-| 6 | **Târgu Mureș** | 19.9.–20.9. | 🚗 Auto | 1 | – | ❌ Unterkunft |
-| 7 | **Maramureș** (Giulești) | 20.9.–23.9. | 🚗 Auto | 3 | **253 €** | ✅ Chalet (stornierbar bis 13.9.) |
-| 8 | **Cluj** (inkl. Salzmine Turda) | 23.9.–25.9. | 🚗 Auto | 2 | – | ❌ Unterkunft |
-| 9 | Cluj → Bukarest | 25.9. | 🚗+🚂 (Round-Trip) **oder** 🚂 (One-Way) | – | – | – |
-| 10 | **Bukarest (BIEFF)** | 25.9.–30.9. | – | 5 | – | ❌ Unterkunft |
-| 11 | Bukarest → Budapest | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug) | – | ❌ Noch nicht |
-| 12 | **Budapest** | 1.10.–3.10. | – | 2 | – | ❌ Unterkunft |
-| 13 | Budapest → Berlin | 3.10. | 🚂 Tagzug via Wien | – | **93 €** | ✅ Gebucht |
-| | | | | **Summe** | **674 €** | |
+|  # | Etappe                                 | Termine     | Verkehr                        | Nächte    | Kosten     | Status                             | Noch offen      |
+|----+----------------------------------------+-------------+--------------------------------+-----------+------------+------------------------------------+-----------------|
+|  1 | Berlin → Brno (via Praha)              | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
+|  2 | **Brünn**                              | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
+|  3 | Brno → Budapest                        | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
+|  4 | Budapest → Brașov                      | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+|  5 | **Brașov-Basis** (Tagesausflüge)       | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
+|    | 🚗 **Mietwagen** (Enterprise, Economy) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
+|  6 | **Târgu Mureș**                        | 19.9.–20.9. | 🚗 Auto                        | 1         | –          | ❌ Unterkunft                      | –               |
+|  7 | **Maramureș** (Giulești)               | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
+|  8 | **Cluj** (inkl. Salzmine Turda)        | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
+|  9 | Cluj → Bukarest                        | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
+| 10 | **Bukarest (BIEFF)**                   | 25.9.–30.9. | –                              | 5         | –          | ❌ Unterkunft                      | –               |
+| 11 | Bukarest → Budapest                    | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+| 12 | **Budapest**                           | 1.10.–3.10. | –                              | 2         | –          | ❌ Unterkunft                      | –               |
+| 13 | Budapest → Berlin                      | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
+|    |                                        |             |                                | **Summe** | **1275 €** | davon **471 € bezahlt**            | **804 € offen** |
+
 
 ---
 
@@ -45,9 +46,7 @@
 
 **Ankunft Samstagabend → direkt zum **Super Panda Circus** (Bar, Pflichtprogramm).**
 
-**Unterkünfte (jeweils nah am Bahnhof):**
-- https://www.booking.com/Share-OxUvDWQ
-- https://www.booking.com/Share-QCB314
+**Unterkunft:** [Apartmán pod Petrovem](https://www.booking.com/Share-OtC0F1) (Sa 12. – Mo 14.9., 2 Nächte, nah am Bahnhof) — **156 €**, stornierbar bis 10.9. ✅ Gebucht
 
 **Sehenswertes:**
 - Špilberk-Festung, Altstadt, **Zelný trh**-Marktplatz, Labyrinth unter dem Markt
@@ -147,7 +146,8 @@ Karpaten-Wetter im späten Sept.: tagsüber meist angenehm (15–22 °C), aber *
 
 ## 6. Mietwagen-Loop: Brașov → Târgu Mureș → Maramureș → Cluj (Sa 19.9. – Do 24.9.)
 
-**Übernahme:** Brașov (Di 15.9.). **Rückgabe:** Cluj **oder** Brașov (s. Etappe 7 – nach Autovermietung-Preisen entscheiden).
+**Übernahme:** Brașov (Di 15.9.). **Rückgabe:** **Brașov** (Fr 25.9., s. Etappe 7 – Variante A entschieden).
+**Gebucht:** Enterprise – Economy, Abholung/Rückgabe **Bd. Gării 3A** (direkt am Bahnhof) — **325 €, bereits bezahlt** ✅. Selbstbeteiligung/Kaution Economy: **1.400 €** → Kreditkartenlimit freihalten; bei Abholung Auto mit Zeitstempel-Fotos/Video dokumentieren.
 
 > **Fokus:** Natur-Mix mit sanften Wanderungen + Holzkirchen; kein Rodna, kein Fröhlicher Friedhof (kein Interesse).
 
@@ -205,7 +205,10 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 | **Săpânța** (Fröhlicher Friedhof) | ~45 min |
 | **Borșa** (Rodna-Gebirge) | ~1 h 15 min |
 
-### Cluj-Unterkünfte (2 Nächte, Mi 23. – Do 24.9.)
+### Cluj-Unterkunft (2 Nächte, Mi 23. – Do 24.9.) ✅ Gebucht
+**Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, stornierbar bis 8.9.
+
+*Alternative (damals in der engeren Auswahl):*
 - **mit Parkplatz** (~116 €) – https://www.booking.com/Share-xMxaMKd
 - **mit Dachterrasse** (~108 €) – https://www.booking.com/Share-mcE3Pk
 - **mittendrin** (~108 €) – https://www.booking.com/Share-JdJhajt
@@ -223,29 +226,47 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 ---
 
-## 7. Letzte Etappe: Cluj → Bukarest (ohne Flug)
+## 7. Cluj → Bukarest 
 
-Zwei Varianten – **Entscheidung nach Autovermietung-Preisen**:
+**Round-Trip: Auto zurück nach Brașov, dann Tagzug nach Bukarest.**
 
-### Variante A – Round-Trip (Auto in Brașov zurück)
-- **Fr 25.9.:** Cluj → **Brașov** (Auto-Rückgabe) → Zug Brașov→Bukarest (~2,5 h)
-- Fahrt Cluj→Brașov: **direkt ~6 h** (via Târgu Mureș) **oder scenic ~7–8 h** (via Alba Iulia–Sibiu–Olt-Tal / Transfăgărășan) – letzteres = kein reines Backtrack
-- **Vorteil:** keine One-Way-Gebühr, Zug-Teil kurz. **Nachteil:** langer Fahrtag.
-- *Mein Tipp bei „kein Flug":* diese Variante, ggf. scenic retour.
+| Schritt | Zeit | Details |
+|---|---|---|
+| 🚗 Abfahrt Cluj | **09:00** | ab Strada Ion I. C. Brătianu Nr. 24 |
+| 🚗 Fahrt Cluj → Brașov | ~4:00 h | direkt (via Târgu Mureș), laut Google Maps 3:40 + 0:20 Pause |
+| ⏰ Ankunft Brașov | ~13:00 | + Auto-Rückgabe am Bahnhof, Mittagessen, Puffer |
+| 🚂 **IC 532** | **ab 14:42** | Brașov → București Nord – [DB-Verbindung](https://www.bahn.de/buchung/start?vbid=f240a2e4-ed40-4c85-a079-de89b6f397b6) |
+| 🏁 Ankunft Bukarest Nord | **16:56** | → U-Bahn/Bolt zur Unterkunft |
 
-### Variante B – One-Way (Auto in Cluj abgeben)
-- **Fr 25.9.:** Auto-Rückgabe Cluj → **Tageszug Cluj → Bukarest** (~9–10 h, landschaftlich, via Sighișoara/Brașov oder via Sibiu)
-- **Vorteil:** kein Fahrtag Cluj→Brașov (Auto). **Nachteil:** One-Way-Gebühr (~50–100 €) + langer Zugtag.
+- **Fahrt gesamt:** ~8 h (Auto + Zug), mit Puffer entspannt – **nicht stressig**.
+- ⏰ **09:00-Abfahrt** lässt ~2 h Reserve vor dem Zug (Rückgabe + Mittagessen).
+- 🎫 **Ticket noch offen** – buchen bei CFR Călători (cfrcalatori.ro) oder DB.
 
-> *Hinweis:* Ohne Flug sind beide Varianten **lange Reisetage** (~8–10 h). Wer's entspannter will, kann am Fr 25.9. noch 1 Nacht in Brașov (Variante A) oder Sighișoara (Variante B) einlegen – dann wird Bukarest aber auf 4 Nächte verkürzt.
+> *Verworfen – Variante B (One-Way in Cluj):* Auto in Cluj abgeben + Tageszug Cluj→Bukarest (~9–10 h). Nachteil: One-Way-Gebühr (~50–100 €) + längerer Zugtag.
 
-➡️ Ankunft Bukarest Freitagabend.
+➡️ **Ankunft Bukarest Freitag 16:56** ✅
 
 ---
 
 ## 8. Bukarest & BIEFF (5 Nächte): Fr 25.9. – Mi 30.9.
 
-- **BIEFF 23.–30.9.** → wir sind **Sa 26.9. – Mi 30.9.** dabei (volle zweite Festivalhälfte).
+- **BIEFF 23.–30.9.** → wir sind **Sa 26.9. – Mi 30.9.** dabei (volle zweite Festivalhälfte, inkl. Abschlussgala).
+- **Tickets** über Eventbook: eventbook.ro/festival/bieff · Einzelkarte 20 RON, *Common Ground Pass* 50 RON, *Standard Pass* 150 RON.
+- 📅 Detailliertes 2026er-Programm erscheint vorauss. **erst Spätsommer 2026** (bieff.ro) → kurz vorab checken & Favoriten sichern.
+
+### 🎬 BIEFF-Spielstätten (Stand 15. Ausgabe 2025 → 2026 erwartet)
+
+| Venue | Adresse | Fokus |
+|---|---|---|
+| **Cinema Elvire Popesco** | Blvd. Dacia 77 | **Hauptspielstätte**: Eröffnung, Langfilm-Wettbewerb, Arsenal on Location, Abschlussfilm |
+| **Cinemateca Eforie** | Str. Eforie 2 | Kurzfilm-Wettbewerbe (intl. + nat.), **Abschluss-Gala & Preisverleihung** |
+| **Cinema Union** | Str. Ion Câmpineanu 21 | Focus-Reihe |
+| **UNATC – Sala Cinema** | Str. Matei Voievod 75-77 | Masterclasses + Focus (Film-Uni, etwas außerhalb → Bolt/Metro) |
+| **Muzeul de Artă Recentă (MARe)** | Calea Victoriei 185 | Sondervorführungen (nicht täglich) |
+
+**Geografie:** alles **Zentrum** – *Union* an der Piața Universității, *Eforie* an der Altstadt/Unirii, *Elvire Popesco* + *MARe* an Piața Romană/Victoriei, nur *UNATC* etwas draußen (Nordosten).
+
+🏨 **→ Hotel-Tipp:** Unterkunft **zwischen Piața Romană und Piața Universității** (Calea Victoriei / Blvd. Magheru) = alle Venues in 5–15 Min. zu Fuß/kurz Bolt. *Status: Bukarest noch nicht gebucht.*
 - **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
 - **Altstadt / Lipscani-Viertel**, Hanul lui Manuc, Stavropoleos-Kirche
 - **Muzeul Național de Artă**, **Muzeul Țăranului Român** (Bauernmuseum)
@@ -309,13 +330,13 @@ Damit ihr wisst, was links liegen bleibt:
 
 ### Braucht eine eigene Reise (zu weit / andere Region)
 
-| Highlight | Wo | Warum draußen |
-|---|---|---|
-| **Donaudelta (Delta Dunării)** | SO-Rumänien (Tulcea) | Biosphärenreservat, Bootstouren. Braucht 2–3 Tage, ganz andere Ecke. |
-| **Schwarzes Meer / Konstanța / Mamaia** | SO-Küste | Strand, Histria (griech. Ruinen). Eigener Trip. |
-| **Iași & die Moldau-Klöster** | NO (Moldau-Region) | Kulturstadt + Klöster. Weit östlich. |
-| **Timișoara** | Westen (Banat) | Kulturhauptstadt 2023, Jugendstil. Weit westlich. |
-| **Moldau (Republik) / Chișinău** | östlich der Grenze | Extra-Land, eigener Trip. |
+| Highlight                               | Wo                   | Warum draußen                                                        |
+|-----------------------------------------+----------------------+----------------------------------------------------------------------|
+| **Donaudelta (Delta Dunării)**          | SO-Rumänien (Tulcea) | Biosphärenreservat, Bootstouren. Braucht 2–3 Tage, ganz andere Ecke. |
+| **Schwarzes Meer / Konstanța / Mamaia** | SO-Küste             | Strand, Histria (griech. Ruinen). Eigener Trip.                      |
+| **Iași & die Moldau-Klöster**           | NO (Moldau-Region)   | Kulturstadt + Klöster. Weit östlich.                                 |
+| **Timișoara**                           | Westen (Banat)       | Kulturhauptstadt 2023, Jugendstil. Weit westlich.                    |
+| **Moldau (Republik) / Chișinău**        | östlich der Grenze   | Extra-Land, eigener Trip.                                            |
 
 > **Bottom Line:** Leicht nachrüstbar = **Transfăgărășan** (Brașov-Tagestour Fr 18.9.) und **Bucovina** (Maramureș-Tagestour). Alles andere (Donaudelta, Küste, Iași, Timișoara) = zweite Rumänien-Reise.
 
