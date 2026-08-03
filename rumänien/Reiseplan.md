@@ -12,7 +12,7 @@
 ## Etappen- & Kosten-Übersicht
 
 |  # | Etappe                                 | Termine     | Verkehr                        | Nächte    | Kosten     | Status                             | Noch offen      |
-|----+----------------------------------------+-------------+--------------------------------+-----------+------------+------------------------------------+-----------------|
+|---|---|---|---|---|---|---|---|
 |  1 | Berlin → Brno (via Praha)              | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
 |  2 | **Brünn**                              | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
 |  3 | Brno → Budapest                        | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
