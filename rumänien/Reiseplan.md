@@ -32,6 +32,16 @@
 
 ---
 
+## ToDos
+
+- [ ] **Zugticket Brno → Budapest** (14.9.) buchen
+- [ ] **Nachtzug Budapest → Brașov, IC 473 „Ister“** (14.9.) buchen
+- [ ] **Zugticket Cluj → Bukarest, IC 532** (25.9.) buchen
+- [ ] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen
+- [ ] **Online-Check-in für die Wohnung in Bukarest erledigen** – der Prozess scheint aufwändiger zu sein. [Previo-Check-in öffnen](https://alfred.previo.app/login/EL556V?intendedUrl=/reservation/checkin)
+
+---
+
 ## 1. Hinweg: Berlin → Brünn (Tagzug)
 
 **Sa 12.9.2026, gebucht ✅ — 53 €:**
