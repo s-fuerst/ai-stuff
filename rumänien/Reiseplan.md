@@ -13,20 +13,20 @@
 
 |  # | Etappe                                 | Termine     | Verkehr                        | Nächte    | Kosten     | Status                             | Noch offen      |
 |---|---|---|---|---|---|---|---|
-|  1 | Berlin → Brno (via Praha)              | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|  2 | **Brünn**                              | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
-|  3 | Brno → Budapest                        | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
-|  4 | Budapest → Brașov                      | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
-|  5 | **Brașov-Basis** (Tagesausflüge)       | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
-|    | 🚗 **Mietwagen** (Enterprise, Economy) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
-|  6 | **Târgu Mureș**                        | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
-|  7 | **Maramureș** (Giulești)               | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
-|  8 | **Cluj** (inkl. Salzmine Turda)        | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
-|  9 | Cluj → Bukarest                        | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
-| 10 | **Bukarest (BIEFF)**                   | 25.9.–30.9. | –                              | 5         | **320 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
-| 11 | Bukarest → Budapest                    | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
-| 12 | **Budapest**                           | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
-| 13 | Budapest → Berlin                      | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
+|  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
+|  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
+|  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
+|  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+|  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
+|    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
+|  6 | [**Târgu Mureș**](#unterkunft-targu-mures) | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
+|  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
+|  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
+|  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
+| 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **320 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
+| 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+| 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
+| 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
 |    |                                        |             |                                | **Summe** | **1860 €** | davon **791 € bezahlt**            | **1069 € offen** |
 
 
@@ -38,10 +38,13 @@
 - [ ] **Nachtzug Budapest → Brașov, IC 473 „Ister“** (14.9.) buchen
 - [ ] **Zugticket Cluj → Bukarest, IC 532** (25.9.) buchen
 - [ ] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen
+- [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
 - [ ] **Online-Check-in für die Wohnung in Bukarest erledigen** – der Prozess scheint aufwändiger zu sein. [Previo-Check-in öffnen](https://alfred.previo.app/login/EL556V?intendedUrl=/reservation/checkin)
+- [ ] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
 
 ---
 
+<a id="etappe-1"></a>
 ## 1. Hinweg: Berlin → Brünn (Tagzug)
 
 **Sa 12.9.2026, gebucht ✅ — 53 €:**
@@ -49,6 +52,7 @@
 
 ---
 
+<a id="etappe-2"></a>
 ## 2. Brünn / Brno (2 Nächte): Sa 12.9. – So 13.9.
 
 **Ankunft Samstagabend → direkt zum **Super Panda Circus** (Bar, Pflichtprogramm).**
@@ -66,6 +70,7 @@
 
 ---
 
+<a id="etappe-3"></a>
 ## 3. Brno → Budapest (Tag)
 
 **Mo 14.9.2026, ca. 5–6 h:** Brno → Břeclav → Wien Hbf → Budapest-Keleti (alle 1–2 h).
@@ -75,6 +80,7 @@ Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
 
 ---
 
+<a id="etappe-4"></a>
 ## 4. Nachtzug Budapest → Brașov 🌙 (Ister)
 
 **Mo 14.9.2026, ab 19:10.** **IC 473 „Ister"** ab Budapest-Keleti.
@@ -97,6 +103,7 @@ Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
 
 ---
 
+<a id="etappe-5"></a>
 ## 5. Brașov-Basis (4 Nächte): Di 15.9. – Fr 18.9.
 
 Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends immer zurück nach Brașov. Deckt Süd-/Zentralsiebenbürgen komplett ab.
@@ -151,6 +158,7 @@ Karpaten-Wetter im späten Sept.: tagsüber meist angenehm (15–22 °C), aber *
 
 ---
 
+<a id="etappe-6"></a>
 ## 6. Mietwagen-Loop: Brașov → Târgu Mureș → Maramureș → Cluj (Sa 19.9. – Do 24.9.)
 
 **Übernahme:** Brașov (Di 15.9.). **Rückgabe:** **Brașov** (Fr 25.9., s. Etappe 7 – Variante A entschieden).
@@ -178,6 +186,7 @@ Brașov ──▶ Târgu Mureș (1 Nacht) ──▶ MARAMUREȘ-Stützpunkt (3 N�
 | Mi | 23.9. | Maramureș → **Cluj** (Ankunft, Stadt-PM: Piața Unirii, Crucea-Panorama) | **Cluj** |
 | Do | 24.9. | **Tagesausflug Salzmine Turda** (~45 min, Spektakel **mit unterirdischem Riesenrad!**); Nachmittag Cluj (Botanischer Garten, Etnografisches Museum) | **Cluj** |
 
+<a id="unterkunft-targu-mures"></a>
 ### Unterkunft Târgu Mureș (1 Nacht, Sa 19. – So 20.9.) ✅ Gebucht
 
 **Atlantic Boutique** ([Booking.com](https://www.booking.com/Share-cN64WM)) — **76 €**, stornierbar bis **14.9.**
@@ -196,6 +205,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 > ⚠️ Das genaue Datum für 2026 steht noch nicht offiziell fest. Im Sommer bei der Primăria nachfragen. Falls das Festival doch erst am 26.–27.9. stattfindet, passt es leider nicht (da schon Bukarest).
 
+<a id="maramures-stuetzpunkt"></a>
 ### Maramureș-Stützpunkt: Giulești – Wood & Bricks Chalet (3 Nächte, So 20. – Mi 23.9.) ✅ GEbucht
 
 **Unterkunft:** [Wood & Bricks Chalet](https://www.booking.com/hotel/ro/sipot-chalet.html), Principala 472B, Giulești (4★, Terrasse, Küche, eigener Garten) — **253 € für 3 Nächte**.
@@ -216,6 +226,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 | **Săpânța** (Fröhlicher Friedhof) | ~45 min |
 | **Borșa** (Rodna-Gebirge) | ~1 h 15 min |
 
+<a id="cluj-unterkunft"></a>
 ### Cluj-Unterkunft (2 Nächte, Mi 23. – Do 24.9.) ✅ Gebucht
 **Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, stornierbar bis 8.9.
 
@@ -237,6 +248,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 ---
 
+<a id="etappe-7"></a>
 ## 7. Cluj → Bukarest 
 
 **Round-Trip: Auto zurück nach Brașov, dann Tagzug nach Bukarest.**
@@ -259,6 +271,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 ---
 
+<a id="etappe-8"></a>
 ## 8. Bukarest & BIEFF (5 Nächte): Fr 25.9. – Mi 30.9.
 
 - **BIEFF 23.–30.9.** → wir sind **Sa 26.9. – Mi 30.9.** dabei (volle zweite Festivalhälfte, inkl. Abschlussgala).
@@ -287,6 +300,7 @@ KI-Tips:
 
 ---
 
+<a id="etappe-9"></a>
 ## 9. Rück-Nachtzug Bukarest → Budapest 🌙 (Ister)
 
 **Mi 30.9.2026, ab 18:24.** **IC 472 „Ister"** ab București Nord.
@@ -303,6 +317,7 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 
 ---
 
+<a id="etappe-10"></a>
 ## 10. Budapest (2 Nächte): Do 1.10. – Sa 3.10.
 
 **Unterkunft:** [Booking.com](https://www.booking.com/Share-NBzFiN) (Do 1. – Sa 3.10.2026, 2 Nächte) — **189 €**, stornierbar bis **25.9.** ✅ Gebucht
@@ -314,6 +329,7 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 
 ---
 
+<a id="etappe-11"></a>
 ## 11. Rückfahrt Budapest → Berlin
 
 **Sa 3.10.2026, gebucht ✅ — 93 €:**
