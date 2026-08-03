@@ -19,15 +19,15 @@
 |  4 | Budapest → Brașov                      | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
 |  5 | **Brașov-Basis** (Tagesausflüge)       | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
 |    | 🚗 **Mietwagen** (Enterprise, Economy) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
-|  6 | **Târgu Mureș**                        | 19.9.–20.9. | 🚗 Auto                        | 1         | –          | ❌ Unterkunft                      | –               |
+|  6 | **Târgu Mureș**                        | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
 |  7 | **Maramureș** (Giulești)               | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
 |  8 | **Cluj** (inkl. Salzmine Turda)        | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
 |  9 | Cluj → Bukarest                        | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
-| 10 | **Bukarest (BIEFF)**                   | 25.9.–30.9. | –                              | 5         | –          | ❌ Unterkunft                      | –               |
+| 10 | **Bukarest (BIEFF)**                   | 25.9.–30.9. | –                              | 5         | **320 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
 | 11 | Bukarest → Budapest                    | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
 | 12 | **Budapest**                           | 1.10.–3.10. | –                              | 2         | –          | ❌ Unterkunft                      | –               |
 | 13 | Budapest → Berlin                      | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **1275 €** | davon **471 € bezahlt**            | **804 € offen** |
+|    |                                        |             |                                | **Summe** | **1671 €** | davon **791 € bezahlt**            | **880 € offen** |
 
 
 ---
@@ -36,9 +36,6 @@
 
 **Sa 12.9.2026, gebucht ✅ — 53 €:**
 - **Berlin Hbf → Brno hl.n.**: RJ 171 + EC 279, ab 07:28, an 14:13 (via Praha)
-- *Tipp:* Regiojet „Standard" (regiojet.cz / cd.cz / trainline). DB-Sparpreis Berlin–Praha ~4–6 Wochen vorher.
-
-➡️ Ankunft Brno Samstagabend.
 
 ---
 
@@ -171,6 +168,10 @@ Brașov ──▶ Târgu Mureș (1 Nacht) ──▶ MARAMUREȘ-Stützpunkt (3 N�
 | Mi | 23.9. | Maramureș → **Cluj** (Ankunft, Stadt-PM: Piața Unirii, Crucea-Panorama) | **Cluj** |
 | Do | 24.9. | **Tagesausflug Salzmine Turda** (~45 min, Spektakel **mit unterirdischem Riesenrad!**); Nachmittag Cluj (Botanischer Garten, Etnografisches Museum) | **Cluj** |
 
+### Unterkunft Târgu Mureș (1 Nacht, Sa 19. – So 20.9.) ✅ Gebucht
+
+**Atlantic Boutique** ([Booking.com](https://www.booking.com/Share-cN64WM)) — **76 €**, stornierbar bis **14.9.**
+
 ### 🎪 Abstecher: „Toamna Chioreană"-Festival (So 20.9.) ⚠️ Datum TBC
 
 Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului** (~1½ h extra).
@@ -266,12 +267,13 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 **Geografie:** alles **Zentrum** – *Union* an der Piața Universității, *Eforie* an der Altstadt/Unirii, *Elvire Popesco* + *MARe* an Piața Romană/Victoriei, nur *UNATC* etwas draußen (Nordosten).
 
-🏨 **→ Hotel-Tipp:** Unterkunft **zwischen Piața Romană und Piața Universității** (Calea Victoriei / Blvd. Magheru) = alle Venues in 5–15 Min. zu Fuß/kurz Bolt. *Status: Bukarest noch nicht gebucht.*
+🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/48537242) (25.9.–30.9.2026, 5 Nächte) — **320 €**, sofort bezahlt, **nicht stornierbar** ✅
+
+KI-Tips:
 - **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
 - **Altstadt / Lipscani-Viertel**, Hanul lui Manuc, Stavropoleos-Kirche
 - **Muzeul Național de Artă**, **Muzeul Țăranului Român** (Bauernmuseum)
 - **Therme București** (Erholung), Tagesausflug **Sinaia** (Peleș) per Zug ~1½ h
-- **Kein Mietwagen** – U-Bahn/Tram/Bolt reicht.
 
 ---
 
