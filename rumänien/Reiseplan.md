@@ -331,7 +331,7 @@ Damit ihr wisst, was links liegen bleibt:
 ### Braucht eine eigene Reise (zu weit / andere Region)
 
 | Highlight                               | Wo                   | Warum draußen                                                        |
-|-----------------------------------------+----------------------+----------------------------------------------------------------------|
+|---|---|---|
 | **Donaudelta (Delta Dunării)**          | SO-Rumänien (Tulcea) | Biosphärenreservat, Bootstouren. Braucht 2–3 Tage, ganz andere Ecke. |
 | **Schwarzes Meer / Konstanța / Mamaia** | SO-Küste             | Strand, Histria (griech. Ruinen). Eigener Trip.                      |
 | **Iași & die Moldau-Klöster**           | NO (Moldau-Region)   | Kulturstadt + Klöster. Weit östlich.                                 |
