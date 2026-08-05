@@ -2,7 +2,7 @@
 
 **Zeitraum:** Sa 12.9. – Sa 3.10.2026 (21 Nächte)
 **Start/Ziel:** Berlin Hbf
-**Route:** Berlin → Brünn → Budapest → (Nachtzug Ister) → **Brașov (4-Nächte-Basis mit Tagesausflügen)** → (Mietwagen) Târgu Mureș → **Giulești / Iza-Tal (3 Nächte)** → Cluj (2 Nächte + Salzmine Turda) → Bukarest (BIEFF, 5 Nächte) → (Nachtzug) → Budapest → Berlin
+**Route:** Berlin → Brünn → Budapest → (Nachtzug D 347) → **Brașov (4-Nächte-Basis mit Tagesausflügen)** → (Mietwagen) Târgu Mureș → **Giulești / Iza-Tal (3 Nächte)** → Cluj (2 Nächte + Salzmine Turda) → Bukarest (BIEFF, 5 Nächte) → (Nachtzug) → Budapest → Berlin
 
 > **Fixpunkt:** BIEFF – Bucharest International Experimental Film Festival, **16. Ausgabe, 23.–30.9.2026**. Wir sind **Sa 26.9. – Mi 30.9.** dabei (volle zweite Festivalhälfte, **5 Nächte Bukarest**).
 > **Grundsatz:** keine Flüge – alle Etappen per Zug/Auto.
@@ -16,7 +16,7 @@
 |  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
 |  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
 |  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
-|  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug „Ister" IC 473** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+|  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug D 347**           | 1 (Zug)   | **220 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
 |    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  6 | [**Târgu Mureș**](#unterkunft-targu-mures) | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
@@ -27,7 +27,7 @@
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **1860 €** | davon **791 € bezahlt**            | **1069 € offen** |
+|    |                                        |             |                                | **Summe** | **2080 €** | davon **1011 € bezahlt**            | **1069 € offen** |
 
 
 ---
@@ -35,7 +35,7 @@
 ## ToDos
 
 - [ ] **Zugticket Brno → Budapest** (14.9.) buchen
-- [ ] **Nachtzug Budapest → Brașov, IC 473 „Ister“** (14.9.) buchen
+- [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
 - [ ] **Zugticket Cluj → Bukarest, IC 532** (25.9.) buchen
 - [ ] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen
 - [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
@@ -81,25 +81,21 @@ Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
 ---
 
 <a id="etappe-4"></a>
-## 4. Nachtzug Budapest → Brașov 🌙 (Ister)
+## 4. Nachtzug Budapest → Brașov 🌙 (D 347)
 
-**Mo 14.9.2026, ab 19:10.** **IC 473 „Ister"** ab Budapest-Keleti.
+**Mo 14.9.2026, abends.** **D 347** ab Budapest-Keleti — **gebucht ✅ — 220 €, bezahlt.**
+
+Der zuvor eingeplante Ister-Familienzug (IC 473 via Arad–Sibiu–Făgăraș) wurde gegen den **D 347** getauscht. Bitte Haltestellen/Zeiten aus dem Ticket ergänzen (Stand: nur Zugnummer + Preis hinterlegt).
 
 | Halt | Ankunft |
 |---|---|
-| Budapest-Keleti (ab) | 19:10 |
-| Békéscsaba | 21:44 |
-| Arad | 00:02 |
-| Sibiu | 04:58 |
-| Făgăraș | 06:31 |
-| **Brașov** | **08:11** |
-| Sinaia | 09:12 |
-| București Nord | 10:37 |
+| Budapest-Keleti (ab) | _(aus Ticket)_ |
+| **Brașov** | **Di 15.9.** _(aus Ticket)_ |
 
 - Reservierung **pflicht**; Schlaf-/Liegewagen (cfrcalatori.ro / MÁV / DB).
-- ⚠️ Route via **Arad–Sibiu–Făgăraș–Brașov**, nicht via Cluj.
+- 💶 **Ticketpreis:** 220 €, **bezahlt** ✅
 
-➡️ **Di 15.9., 08:11 Ankunft Brașov → Mietwagen-Übernahme am Bahnhof.**
+➡️ **Di 15.9., Ankunft Brașov → Mietwagen-Übernahme am Bahnhof.**
 
 ---
 
@@ -127,7 +123,7 @@ Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends i
 
 | Tag | Programm |
 |---|---|
-| **Di 15.9.** (Ankunft 08:11) | **Auto-Übernahme**, einleben, Markt nördl. Bahnhof, Frühstück *La Birou*, Schwarze Kirche (Orgelkonzert prüfen), **Tâmpa-Seilbahn** |
+| **Di 15.9.** (Ankunft aus Ticket) | **Auto-Übernahme**, einleben, Markt nördl. Bahnhof, Frühstück *La Birou*, Schwarze Kirche (Orgelkonzert prüfen), **Tâmpa-Seilbahn** |
 | **Mi 16.9.** | **Schloss Peleș (Sinaia)** → **Schloss Bran** → **Festung Râșnov** (je 30–45 min) |
 | **Do 17.9.** | **Piatra Craiului Nationalpark** (Wandern) + **Libearty-Bärenreservat** (Zărnești, https://millionsoffriends.org/en/libearty/) – Natur-/Wildlife-Tag |
 | **Fr 18.9.** | **Sibiu** (~2½ h): **🏆 ASTRA-Museum als Hauptpunkt** (größtes Freilichtmuseum Rumäniens, **mind. halber Tag!**) + kurz **Zibinsmarkt** + essen **Crama Sibiul Vechi**; bei Restzeit **Alba Iulia** |
@@ -230,21 +226,10 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 ### Cluj-Unterkunft (2 Nächte, Mi 23. – Do 24.9.) ✅ Gebucht
 **Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, stornierbar bis 8.9.
 
-*Alternative (damals in der engeren Auswahl):*
-- **mit Parkplatz** (~116 €) – https://www.booking.com/Share-xMxaMKd
-- **mit Dachterrasse** (~108 €) – https://www.booking.com/Share-mcE3Pk
-- **mittendrin** (~108 €) – https://www.booking.com/Share-JdJhajt
-
 ### Optional: Bucovina (bemalte Klöster) als Tagestour
 - Wenn der Stützpunkt östlich liegt, ist **Voroneț** (blaues Fresko) ~2½ h entfernt → machbarer, aber **langer Tag**.
 - Konkrete Entscheidung vor Ort – als Sehenswürdigkeit hinterlegt: **Voroneț, Humor, Moldovița, Sucevița** (UNESCO-bemalte Klöster).
 - *Falls doch fest eingeplant:* einen der 3 Maramureș-Tage opfern (dann z.B. Mocănița + Săpânța an einem Tag kombinieren).
-
-### Autos in Rumänien
-- Vignette (Rovinieta) digital: rovinieta.ro
-- Nachts Wildtierverkehr → Tagesetappen; Bergstrecken langsam.
-- Tanken in Städten; Maramureș frühzeitig.
-- **Mocănița-Dampflok** (Vișeu) – nur bei festem Plan: Tickets vorab buchen.
 
 ---
 
@@ -320,7 +305,7 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 <a id="etappe-10"></a>
 ## 10. Budapest (2 Nächte): Do 1.10. – Sa 3.10.
 
-**Unterkunft:** [Booking.com](https://www.booking.com/Share-NBzFiN) (Do 1. – Sa 3.10.2026, 2 Nächte) — **189 €**, stornierbar bis **25.9.** ✅ Gebucht
+**Unterkunft:** [Booking.com](https://www.booking.com/Share-sNPwaz) (Do 1. – Sa 3.10.2026, 2 Nächte) — **189 €**, stornierbar bis **25.9.** ✅ Gebucht
 
 - Parlament, Kettenbrücke, Burgberg/Fischerbastei
 - **Gellért- oder Széchenyi-Thermalbad**
