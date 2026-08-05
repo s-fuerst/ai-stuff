@@ -73,29 +73,41 @@
 <a id="etappe-3"></a>
 ## 3. Brno → Budapest (Tag)
 
-**Mo 14.9.2026, ca. 5–6 h:** Brno → Břeclav → Wien Hbf → Budapest-Keleti (alle 1–2 h).
+**Mo 14.9.2026, ca. 5–6 h:** Brno → Břeclav → Wien Hbf → Budapest (alle 1–2 h).
 Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
 
-**Essen:** **Szaletly** (Michelin-Erwähnung, ~20 min zu Fuß vom Bahnhof) – https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly
+> ⚠️ **Abstimmung mit Etappe 4:** Der Nachtzug **D 347 hält zweimal in Budapest**, an **Budapest Kelenföld (21:33–21:41)** und **Kőbánya-Kispest (21:57–22:09)** – nicht am Ostbahnhof Keleti. **Unser Ticket gilt ab Kőbánya-Kispest (Einstieg 22:09)**, also Ankunft in Budapest und Abendessen entsprechend in der **südlichen Stadt** (zweckmäßig nahe Kőbánya-Kispest) planen. Das notierte [Szaletly](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly) liegt dadurch etwas ungünstig.
 
 ---
 
 <a id="etappe-4"></a>
 ## 4. Nachtzug Budapest → Brașov 🌙 (D 347)
 
-**Mo 14.9.2026, abends.** **D 347** ab Budapest-Keleti — **gebucht ✅ — 220 €, bezahlt.**
+**Mo 14.9.2026, abends.** **D 347 „Dacia“ (Wien → Bukarest)** — **gebucht ✅ — 220 €, bezahlt.**
 
-Der zuvor eingeplante Ister-Familienzug (IC 473 via Arad–Sibiu–Făgăraș) wurde gegen den **D 347** getauscht. Bitte Haltestellen/Zeiten aus dem Ticket ergänzen (Stand: nur Zugnummer + Preis hinterlegt).
+Ein **anderer Fahrplan als der zuvor eingeplante Ister (IC 473)** – der D 347 ist der CFR/MÁV/ÖBB-Nachtzug *Wien–Bukarest*. Er hält **zweimal in Budapest**, an **Budapest Kelenföld** und **Kőbánya-Kispest** (nicht am Ostbahnhof Keleti).
 
-| Halt | Ankunft |
-|---|---|
-| Budapest-Keleti (ab) | _(aus Ticket)_ |
-| **Brașov** | **Di 15.9.** _(aus Ticket)_ |
+> 💳 **Unser Ticket gilt ab Bahnhof Kőbánya-Kispest** (Einstieg dort um 22:09).
 
-- Reservierung **pflicht**; Schlaf-/Liegewagen (cfrcalatori.ro / MÁV / DB).
+| Halt | Ankunft | Abfahrt |
+|---|---|---|
+| **Budapest Kelenföld** | – | 21:41 |
+| **Kőbánya-Kispest** (💳 Ticket gilt ab hier) | 21:57 | 22:09 |
+| Szolnok | 23:11 | 23:25 |
+| Békéscsaba | 00:25 | 00:27 |
+| Arad | 02:54 | 03:15 |
+| Simeria | 05:17 | 05:43 |
+| Alba Iulia | 06:17 | 06:19 |
+| Sighișoara | 07:31 | 07:36 |
+| **Brașov** | **11:03** | 11:08 |
+
+**_Zur Einordnung:_** Vollen D-347-Lauf: Wien Hbf 19:08 → Győr 20:25 → **Budapest Kelenföld 21:33–21:41** → **Kőbánya-Kispest 21:57–22:09** → Szolnok → Békéscsaba → Arad → … → **Brașov 11:03** → Ploiești Vest 13:01 → București Nord 13:38.
+
+- Reservierung **pflicht**; Sitz-/Liege-/Schlafwagen (cfrcalatori.ro / MÁV / ÖBB).
 - 💶 **Ticketpreis:** 220 €, **bezahlt** ✅
+- ⚠️ **Anders als der Ister:** keine Via-Arad–Sibiu–Făgăraș-Route, sondern via **Arad–Alba Iulia–Sighișoara–Brașov**.
 
-➡️ **Di 15.9., Ankunft Brașov → Mietwagen-Übernahme am Bahnhof.**
+➡️ **Di 15.9., 11:03 Ankunft Brașov → Mietwagen-Übernahme am Bahnhof.**
 
 ---
 
@@ -123,7 +135,7 @@ Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends i
 
 | Tag | Programm |
 |---|---|
-| **Di 15.9.** (Ankunft aus Ticket) | **Auto-Übernahme**, einleben, Markt nördl. Bahnhof, Frühstück *La Birou*, Schwarze Kirche (Orgelkonzert prüfen), **Tâmpa-Seilbahn** |
+| **Di 15.9.** (Ankunft 11:03) | **Auto-Übernahme**, einleben, Markt nördl. Bahnhof, Frühstück *La Birou*, Schwarze Kirche (Orgelkonzert prüfen), **Tâmpa-Seilbahn** |
 | **Mi 16.9.** | **Schloss Peleș (Sinaia)** → **Schloss Bran** → **Festung Râșnov** (je 30–45 min) |
 | **Do 17.9.** | **Piatra Craiului Nationalpark** (Wandern) + **Libearty-Bärenreservat** (Zărnești, https://millionsoffriends.org/en/libearty/) – Natur-/Wildlife-Tag |
 | **Fr 18.9.** | **Sibiu** (~2½ h): **🏆 ASTRA-Museum als Hauptpunkt** (größtes Freilichtmuseum Rumäniens, **mind. halber Tag!**) + kurz **Zibinsmarkt** + essen **Crama Sibiul Vechi**; bei Restzeit **Alba Iulia** |
@@ -359,7 +371,8 @@ Damit ihr wisst, was links liegen bleibt:
 
 ## Nützliche Links
 
-- **Ister-Fahrplan/Info**: back-on-track.eu, cfrcalitori.ro
+- **D-346/-347-Fahrplan (Wien–Bukarest, „Dacia“)**: back-on-track.eu, cfrcalatori.ro, mersultrenurilor.infofer.ro
+- **Ister-Fahrplan/Info**: back-on-track.eu, cfrcalatori.ro
 - **Nachtzug-Übersicht**: nachtzug.net, seat61.com
 - **Regiojet**: regiojet.cz · **ČD**: cd.cz
 - **Mietwagen Rumänien**: Auto Europe, Sixt, Hertz, Europcar, Klass Wagen, Autonom
