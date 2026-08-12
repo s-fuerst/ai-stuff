@@ -83,13 +83,10 @@ Damit bleibt am Nachmittag Zeit für ein Abendessen in Budapest, bevor es zum Na
 
 ### Abendessen in Budapest: TATI 🍽️
 
-**Mo. 14.9.2026, vor dem Nachtzug:** Als Ersatzrestaurant ist das [TATI](https://tatibudapest.com/) vorgesehen – ein schickes Restaurant in der Nähe von **Kőbánya-Kispest**, etwa **15 Minuten zu Fuß** vom Bahnhof entfernt.
+**Mo. 14.9.2026, vor dem Nachtzug:** Als Restaurant ist das [TATI](https://tatibudapest.com/) vorgesehen – in der Nähe von **Kőbánya-Kispest**, etwa **15 Minuten zu Fuß** vom Bahnhof entfernt.
 
 - **Tasting-Menü:** aktuell ca. **61 € pro Person**
-- Beispiel aus dem aktuellen Menü: geräuchertes Rinderzungen-Carpaccio als Vorspeise
 - **Reservierung erforderlich / noch offen** – rechtzeitig für den 14.9. reservieren
-
-> ⚠️ **Abstimmung mit Etappe 4:** Der Nachtzug **D 347 hält zweimal in Budapest**, an **Budapest Kelenföld (21:33–21:41)** und **Kőbánya-Kispest (21:57–22:09)** – nicht am Ostbahnhof Keleti. **Unser Ticket gilt ab Kőbánya-Kispest (Einstieg 22:09)**, also Ankunft in Budapest und Abendessen entsprechend in der **südlichen Stadt** (zweckmäßig nahe Kőbánya-Kispest) planen. Das notierte [Szaletly](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly) liegt dadurch etwas ungünstig.
 
 ---
 
