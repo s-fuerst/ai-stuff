@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|---|---|
 |  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
 |  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
-|  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
+|  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 **rj 275** (via Bratislava)  | –         | **62 €**   | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug D 347**           | 1 (Zug)   | **220 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
 |    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
@@ -27,15 +27,16 @@
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2080 €** | davon **1011 € bezahlt**            | **1069 € offen** |
+|    |                                        |             |                                | **Summe** | **2142 €** | davon **1073 € bezahlt**            | **1069 € offen** |
 
 
 ---
 
 ## ToDos
 
-- [ ] **Zugticket Brno → Budapest** (14.9.) buchen
+- [x] **Zugticket Brno → Budapest** (14.9.) buchen – 62 €, bezahlt ✅
 - [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
+- [ ] **TATI in Budapest reservieren** – Abendessen am 14.9. vor dem Nachtzug; ca. 61 € p. P., [Restaurant-Website](https://tatibudapest.com/)
 - [ ] **Zugticket Cluj → Bukarest, IC 532** (25.9.) buchen
 - [ ] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen
 - [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
@@ -73,8 +74,20 @@
 <a id="etappe-3"></a>
 ## 3. Brno → Budapest (Tag)
 
-**Mo 14.9.2026, ca. 5–6 h:** Brno → Břeclav → Wien Hbf → Budapest (alle 1–2 h).
-Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
+**Mo 14.9.2026, gebucht ✅ — 62 € (für 2 Personen, bezahlt):**
+- **Brno hl.n. → Budapest-Nyugati pu**: **rj 275**, ab **10:18**, an **14:28** (über Kúty, Bratislava und Szob)
+- **2. Klasse**, Sitzplätze **94 und 96**
+- Zugbindung; Ticket ausgestellt von České dráhy am 12.8.2026
+
+Damit bleibt am Nachmittag Zeit für ein Abendessen in Budapest, bevor es zum Nachtzug weitergeht.
+
+### Abendessen in Budapest: TATI 🍽️
+
+**Mo. 14.9.2026, vor dem Nachtzug:** Als Ersatzrestaurant ist das [TATI](https://tatibudapest.com/) vorgesehen – ein schickes Restaurant in der Nähe von **Kőbánya-Kispest**, etwa **15 Minuten zu Fuß** vom Bahnhof entfernt.
+
+- **Tasting-Menü:** aktuell ca. **61 € pro Person**
+- Beispiel aus dem aktuellen Menü: geräuchertes Rinderzungen-Carpaccio als Vorspeise
+- **Reservierung erforderlich / noch offen** – rechtzeitig für den 14.9. reservieren
 
 > ⚠️ **Abstimmung mit Etappe 4:** Der Nachtzug **D 347 hält zweimal in Budapest**, an **Budapest Kelenföld (21:33–21:41)** und **Kőbánya-Kispest (21:57–22:09)** – nicht am Ostbahnhof Keleti. **Unser Ticket gilt ab Kőbánya-Kispest (Einstieg 22:09)**, also Ankunft in Budapest und Abendessen entsprechend in der **südlichen Stadt** (zweckmäßig nahe Kőbánya-Kispest) planen. Das notierte [Szaletly](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly) liegt dadurch etwas ungünstig.
 
