@@ -23,11 +23,11 @@
 |  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
 |  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
 |  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
-| 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **320 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
+| 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **394,32 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2311 €** | davon **1242 € bezahlt**            | **1069 € offen** |
+|    |                                        |             |                                | **Summe** | **2385,32 €** | davon **1316,32 € bezahlt**            | **1069 € offen** |
 
 
 ---
@@ -295,7 +295,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 **Geografie:** alles **Zentrum** – *Union* an der Piața Universității, *Eforie* an der Altstadt/Unirii, *Elvire Popesco* + *MARe* an Piața Romană/Victoriei, nur *UNATC* etwas draußen (Nordosten).
 
-🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/48537242) (25.9.–30.9.2026, 5 Nächte) — **320 €**, sofort bezahlt, **nicht stornierbar** ✅
+🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/48537242) (25.9.–30.9.2026, 5 Nächte) — **394,32 €**, sofort bezahlt, **nicht stornierbar** ✅
 
 KI-Tips:
 - **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
