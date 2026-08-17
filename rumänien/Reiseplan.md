@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|---|---|
 |  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
 |  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
-|  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 Tagzug (via Wien)           | –         | –          | ❌ Noch nicht                      | –               |
+|  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 **rj 275** (via Bratislava)  | –         | **62 €**   | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug D 347**           | 1 (Zug)   | **220 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
 |    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
@@ -23,21 +23,23 @@
 |  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
 |  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
 |  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
-| 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **320 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
-| 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | –          | ❌ Noch nicht                      | –               |
+| 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **394,32 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
+| 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2080 €** | davon **1011 € bezahlt**            | **1069 € offen** |
+|    |                                        |             |                                | **Summe** | **2385,32 €** | davon **1316,32 € bezahlt**            | **1069 € offen** |
 
 
 ---
 
 ## ToDos
 
-- [ ] **Zugticket Brno → Budapest** (14.9.) buchen
+- [x] **Zugticket Brno → Budapest** (14.9.) buchen – 62 €, bezahlt ✅
 - [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
-- [ ] **Zugticket Cluj → Bukarest, IC 532** (25.9.) buchen
-- [ ] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen
+- [ ] **TATI in Budapest reservieren** – Abendessen am 14.9. vor dem Nachtzug; ca. 61 € p. P., [Restaurant-Website](https://tatibudapest.com/)
+- [ ] **Szaletly reservieren** – Abendessen Anfang Oktober (Heimweg, 1.–3.10.), am Városliget; [Michelin-Eintrag](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly)
+- [ ] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – erst 30 Tage vorher kaufbar (ab 26.8.2026)
+- [x] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen – 169 €, bezahlt ✅
 - [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
 - [ ] **Online-Check-in für die Wohnung in Bukarest erledigen** – der Prozess scheint aufwändiger zu sein. [Previo-Check-in öffnen](https://alfred.previo.app/login/EL556V?intendedUrl=/reservation/checkin)
 - [ ] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
@@ -73,10 +75,22 @@
 <a id="etappe-3"></a>
 ## 3. Brno → Budapest (Tag)
 
-**Mo 14.9.2026, ca. 5–6 h:** Brno → Břeclav → Wien Hbf → Budapest (alle 1–2 h).
-Zeit für ein Abendessen in Budapest, dann zum Nachtzug.
+**Mo 14.9.2026, gebucht ✅ — 62 € (für 2 Personen, bezahlt):**
+- **Brno hl.n. → Budapest-Nyugati pu**: **rj 275**, ab **10:18**, an **14:28** (über Kúty, Bratislava und Szob)
+- **2. Klasse**, Sitzplätze **94 und 96**
+- Zugbindung; Ticket ausgestellt von České dráhy am 12.8.2026
 
-> ⚠️ **Abstimmung mit Etappe 4:** Der Nachtzug **D 347 hält zweimal in Budapest**, an **Budapest Kelenföld (21:33–21:41)** und **Kőbánya-Kispest (21:57–22:09)** – nicht am Ostbahnhof Keleti. **Unser Ticket gilt ab Kőbánya-Kispest (Einstieg 22:09)**, also Ankunft in Budapest und Abendessen entsprechend in der **südlichen Stadt** (zweckmäßig nahe Kőbánya-Kispest) planen. Das notierte [Szaletly](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly) liegt dadurch etwas ungünstig.
+Damit bleibt am Nachmittag Zeit für ein Abendessen in Budapest, bevor es zum Nachtzug weitergeht.
+
+### Abend in Budapest: TATI 🍽️ (mit Gepäck & Anreise zum Nachtzug)
+
+**Mo. 14.9.2026, vor dem Nachtzug:** Abendessen im [TATI](https://tatibudapest.com/) – **Dohány utca 58–62** (jüdisches Viertel, Bezirk VII), Tasting-Menü ca. **61 € pro Person**. Reservierung rechtzeitig für den 14.9. erforderlich.
+
+**Ablauf-Vorschlag:**
+1. **Gepäck abgeben in der Nähe des TATI:** [Lockers Budapest](https://lockersbudapest.com/) an der **Dohány utca 30** (~2 min Fußweg vom TATI, 2.000 Ft/Tag ≈ 5 €); Alternativen: Radical Storage / Stasher-Partner in der Innenstadt
+2. **Nachmittag im jüdischen Viertel:** Dohány-Synagoge (direkt an der Dohány utca), Ruin Bars, Kaffee
+3. **Abendessen im TATI**
+4. **Mit der U-Bahn (mit Umstieg) zum Abfahrtsbahnhof:** **M2 ab Blaha Lujza tér** (~2 min Fußweg vom TATI) → 1 Station bis **Deák Ferenc tér** → **umsteigen in die M3** (Richtung Süden) → bis **Endstation Kőbánya-Kispest** (~20–25 min) → Einstieg in den Nachtzug **D 347 um 22:09**
 
 ---
 
@@ -100,12 +114,6 @@ Ein **anderer Fahrplan als der zuvor eingeplante Ister (IC 473)** – der D 347 
 | Alba Iulia | 06:17 | 06:19 |
 | Sighișoara | 07:31 | 07:36 |
 | **Brașov** | **11:03** | 11:08 |
-
-**_Zur Einordnung:_** Vollen D-347-Lauf: Wien Hbf 19:08 → Győr 20:25 → **Budapest Kelenföld 21:33–21:41** → **Kőbánya-Kispest 21:57–22:09** → Szolnok → Békéscsaba → Arad → … → **Brașov 11:03** → Ploiești Vest 13:01 → București Nord 13:38.
-
-- Reservierung **pflicht**; Sitz-/Liege-/Schlafwagen (cfrcalatori.ro / MÁV / ÖBB).
-- 💶 **Ticketpreis:** 220 €, **bezahlt** ✅
-- ⚠️ **Anders als der Ister:** keine Via-Arad–Sibiu–Făgăraș-Route, sondern via **Arad–Alba Iulia–Sighișoara–Brașov**.
 
 ➡️ **Di 15.9., 11:03 Ankunft Brașov → Mietwagen-Übernahme am Bahnhof.**
 
@@ -287,7 +295,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 **Geografie:** alles **Zentrum** – *Union* an der Piața Universității, *Eforie* an der Altstadt/Unirii, *Elvire Popesco* + *MARe* an Piața Romană/Victoriei, nur *UNATC* etwas draußen (Nordosten).
 
-🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/48537242) (25.9.–30.9.2026, 5 Nächte) — **320 €**, sofort bezahlt, **nicht stornierbar** ✅
+🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/48537242) (25.9.–30.9.2026, 5 Nächte) — **394,32 €**, sofort bezahlt, **nicht stornierbar** ✅
 
 KI-Tips:
 - **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
@@ -300,7 +308,7 @@ KI-Tips:
 <a id="etappe-9"></a>
 ## 9. Rück-Nachtzug Bukarest → Budapest 🌙 (Ister)
 
-**Mi 30.9.2026, ab 18:24.** **IC 472 „Ister"** ab București Nord.
+**Mi 30.9.2026, gebucht ✅ — 169 € (bezahlt).** **IC 472 „Ister"** ab București Nord.
 
 | Halt | Ankunft |
 |---|---|
@@ -323,6 +331,14 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 - **Gellért- oder Széchenyi-Thermalbad**
 - Große Markthalle, jüdisches Viertel, „Ruin Bars"
 - Ungarische Küche (Lángos, Gulyás, Kürtőskalács)
+
+### Abendessen: Szaletly 🍽️ (Heimweg)
+
+[Szaletly](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly) – **Stefánia út 93** (Bezirk XIV, direkt am **Városliget/Stadtpark**). Michelin-Guide-Erwähnung („Plate" 2024/25), ungarische Küche, €€ – sehr guter Ruf (Tripadvisor 4,5★).
+
+- Passt mit einem **Nachmittags-/Tagesausflug in die Gegend**: Heldenplatz, Városliget, **Széchenyi-Thermalbad**, Zoo, Burg Vajdahunyad
+- Anreise z.B. **M1** (Endstation Mexikói út, Haltestelle nahe der Stefánia út) oder Tram 4/6 + M1
+- **Reservierung empfohlen**
 
 ---
 
