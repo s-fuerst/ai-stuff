@@ -25,9 +25,10 @@
 |  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
 | 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **368 €**  | ✅ Airbnb (bezahlt, stornierbar bis 20.9.) | ✓ bezahlt       |
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
-| 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (stornierbar bis 25.9.) | 189 €           |
+| 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (bezahlt)                | ✓ bezahlt       |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2359 €** | davon **1290 € bezahlt**            | **1069 € offen** |
+
+|    |                                        |             |                                | **Summe** | **2359 €** | davon **1479 € bezahlt**            | **880 € offen**  |
 
 
 ---
@@ -324,7 +325,7 @@ Reservierungspflicht. Spätabends in Brașov, nachts durch Siebenbürgen.
 <a id="etappe-10"></a>
 ## 10. Budapest (2 Nächte): Do 1.10. – Sa 3.10.
 
-**Unterkunft:** [Booking.com](https://www.booking.com/Share-sNPwaz) (Do 1. – Sa 3.10.2026, 2 Nächte) — **189 €**, stornierbar bis **25.9.** ✅ Gebucht
+**Unterkunft:** [Booking.com](https://www.booking.com/Share-sNPwaz) (Do 1. – Sa 3.10.2026, 2 Nächte) — **189 €**, bezahlt ✅
 
 - Parlament, Kettenbrücke, Burgberg/Fischerbastei
 - **Gellért- oder Széchenyi-Thermalbad**
