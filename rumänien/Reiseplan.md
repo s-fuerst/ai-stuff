@@ -22,12 +22,12 @@
 |  6 | [**Târgu Mureș**](#unterkunft-targu-mures) | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
 |  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
 |  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
-|  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
+|  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | **34 €**   | ✅ Gebucht (bezahlt, 170 RON)      | ✓ bezahlt       |
 | 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **394,32 €**  | ✅ Airbnb (sofort bezahlt, nicht stornierbar) | ✓ bezahlt       |
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (bezahlt)                | ✓ bezahlt       |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2385,32 €** | davon **1505,32 € bezahlt**            | **880 € offen** |
+|    |                                        |             |                                | **Summe** | **2419,32 €** | davon **1539,32 € bezahlt**            | **846 € offen** |
 
 
 ---
@@ -38,10 +38,8 @@
 - [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
 - [ ] **TATI in Budapest reservieren** – Abendessen am 14.9. vor dem Nachtzug; ca. 61 € p. P., [Restaurant-Website](https://tatibudapest.com/)
 - [ ] **Szaletly reservieren** – Abendessen Anfang Oktober (Heimweg, 1.–3.10.), am Városliget; [Michelin-Eintrag](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly)
-- [ ] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – erst 30 Tage vorher kaufbar (ab 26.8.2026)
+- [x] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – **170 RON (~34 €), bezahlt** ✅
 - [x] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen – 169 €, bezahlt ✅
-- [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
-- [ ] **Online-Check-in für die Wohnung in Bukarest erledigen** – der Prozess scheint aufwändiger zu sein. [Previo-Check-in öffnen](https://alfred.previo.app/login/EL556V?intendedUrl=/reservation/checkin)
 - [ ] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
 
 ---
@@ -268,7 +266,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 - **Fahrt gesamt:** ~8 h (Auto + Zug), mit Puffer entspannt – **nicht stressig**.
 - ⏰ **09:00-Abfahrt** lässt ~2 h Reserve vor dem Zug (Rückgabe + Mittagessen).
-- 🎫 **Ticket noch offen** – buchen bei CFR Călători (cfrcalatori.ro) oder DB.
+- 🎫 **Ticket gebucht ✅ — 170 RON (~34 €), bezahlt.**
 
 > *Verworfen – Variante B (One-Way in Cluj):* Auto in Cluj abgeben + Tageszug Cluj→Bukarest (~9–10 h). Nachteil: One-Way-Gebühr (~50–100 €) + längerer Zugtag.
 
