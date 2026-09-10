@@ -36,11 +36,11 @@
 
 - [x] **Zugticket Brno → Budapest** (14.9.) buchen – 62 €, bezahlt ✅
 - [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
-- [ ] **TATI in Budapest reservieren** – Abendessen am 14.9. vor dem Nachtzug; ca. 61 € p. P., [Restaurant-Website](https://tatibudapest.com/)
 - [ ] **Szaletly reservieren** – Abendessen Anfang Oktober (Heimweg, 1.–3.10.), am Városliget; [Michelin-Eintrag](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly)
 - [x] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – **170 RON (~34 €), bezahlt** ✅
 - [x] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen – 169 €, bezahlt ✅
-- [ ] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
+- [x] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
+- [ ] **Palast-Führung Bukarest reservieren** (Palatul Parlamentului) – nur telefonisch, min. 24 h vorher, 09:00–16:00: **+40 733 558 102 / 103**; Wunschslot morgens am Sa 26.9.–Di 29.9., deutschsprachigen Guide anfragen (Details in Etappe 8)
 
 ---
 
@@ -125,8 +125,8 @@ Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends i
 **Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, stornierbar bis 10.9. ✅ Gebucht
 
 **Essen / Trinken in Brașov:**
+- Reservierung angefragt 15.9. 19:30: **One Soul** – modern regional – https://www.onesoul.ro/en
 - **Panoramic Restaurant** – *Panoramic Signature Tasting Menu* (67 €) – https://www.panoramicbrasov.ro/en/offers
-- **One Soul** – modern regional – https://www.onesoul.ro/en
 - **Sub Tâmpa** – rumänische Küche mit Super-Aussicht – https://subtampa.com/
 - **Roma** – Snacks, beste Focacceria
 - **Bistro de l'Arte** – *Geheimtipp*: Frühstück, Essen, Cocktails
@@ -296,7 +296,13 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/1189569006216780342?adults=2&check_in=2026-09-25&check_out=2026-09-30) (25.9.–30.9.2026, 5 Nächte, 2 Gäste) — **368 €**, bezahlt, stornierbar bis **20.9.** ✅ *(Vorherige Buchung wurde storniert.)*
 
 KI-Tips:
-- **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
+- **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen, offiziell über **CIC** ([cic.cdep.ro](https://cic.cdep.ro/)):
+  - ☎️ **Reservierung (1–9 Pers.) nur telefonisch, min. 24 h vorher** (09:00–16:00): **+40 733 558 102 / 103** – bei Gelegenheit **deutschsprachigen Guide** anfragen
+  - **Kein Online-Verkauf!** Tickets am Tag selbst an der Kasse: **„Constantin Brâncuși"-Halle, Str. Izvor 2–4**
+  - 💶 Standard-Tour **85 Lei (~17 €)** p. P. (Stand laut CIC; Panorama-Terrasse / Untergeschoss als Aufpreis – am Telefon gegenchecken); **Foto-/Videokamera +30 Lei**
+  - 🕘 Öffnung täglich **09:00–16:30**, Tour ~1,5–2 h; 10 min vorher am Info-Desk sein (No-Show = Reservierung weg)
+  - 🪪 **Ausweis mitführen** (kein Führerschein); **kein Gepäckraum** → nur kleiner Rucksack
+  - ⚠️ **Parlamentssitzungen können Touren kurzfristig absagen** → nicht als einzigen Programmpunkt am Tag planen; guter Slot: **Sa 26.9.–Di 29.9. morgens (9:00/10:00)**
 - **Altstadt / Lipscani-Viertel**, Hanul lui Manuc, Stavropoleos-Kirche
 - **Muzeul Național de Artă**, **Muzeul Țăranului Român** (Bauernmuseum)
 - **Therme București** (Erholung), Tagesausflug **Sinaia** (Peleș) per Zug ~1½ h
