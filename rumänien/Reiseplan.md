@@ -14,20 +14,20 @@
 |  # | Etappe                                 | Termine     | Verkehr                        | Nächte    | Kosten     | Status                             | Noch offen      |
 |---|---|---|---|---|---|---|---|
 |  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
+|  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 **rj 275** (via Bratislava)  | –         | **62 €**   | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug D 347**           | 1 (Zug)   | **220 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
-|  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
+|  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (bezahlt)                | ✓ bezahlt       |
 |    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  6 | [**Târgu Mureș**](#unterkunft-targu-mures) | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
 |  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
-|  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
+|  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | **34 €**   | ✅ Gebucht (bezahlt, 170 RON)      | ✓ bezahlt       |
 | 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **368 €**  | ✅ Airbnb (bezahlt, stornierbar bis 20.9.) | ✓ bezahlt       |
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (bezahlt)                | ✓ bezahlt       |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|    |                                        |             |                                | **Summe** | **2393 €** | davon **1513 € bezahlt**            | **880 € offen**  |
+|    |                                        |             |                                | **Summe** | **2393 €** | davon **2064 € bezahlt**            | **329 € offen**  |
 
 
 ---
@@ -57,7 +57,7 @@
 
 **Ankunft Samstagabend → direkt zum **Super Panda Circus** (Bar, Pflichtprogramm).**
 
-**Unterkunft:** [Apartmán pod Petrovem](https://www.booking.com/Share-OtC0F1) (Sa 12. – Mo 14.9., 2 Nächte, nah am Bahnhof) — **156 €**, stornierbar bis 10.9. ✅ Gebucht
+**Unterkunft:** [Apartmán pod Petrovem](https://www.booking.com/Share-OtC0F1) (Sa 12. – Mo 14.9., 2 Nächte, nah am Bahnhof) — **156 €**, ✅ bezahlt (stornierbar bis 10.9.)
 
 **Sehenswertes:**
 - Špilberk-Festung, Altstadt, **Zelný trh**-Marktplatz, Labyrinth unter dem Markt
@@ -122,7 +122,7 @@ Ein **anderer Fahrplan als der zuvor eingeplante Ister (IC 473)** – der D 347 
 
 Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends immer zurück nach Brașov. Deckt Süd-/Zentralsiebenbürgen komplett ab.
 
-**Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, stornierbar bis 10.9. ✅ Gebucht
+**Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, ✅ bezahlt (stornierbar bis 10.9.)
 
 **Essen / Trinken in Brașov:**
 - Reservierung angefragt 15.9. 19:30: **One Soul** – modern regional – https://www.onesoul.ro/en
@@ -242,7 +242,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 <a id="cluj-unterkunft"></a>
 ### Cluj-Unterkunft (2 Nächte, Mi 23. – Do 24.9.) ✅ Gebucht
-**Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, stornierbar bis 8.9.
+**Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, ✅ bezahlt (stornierbar bis 8.9.)
 
 ### Optional: Bucovina (bemalte Klöster) als Tagestour
 - Wenn der Stützpunkt östlich liegt, ist **Voroneț** (blaues Fresko) ~2½ h entfernt → machbarer, aber **langer Tag**.
