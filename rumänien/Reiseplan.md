@@ -219,6 +219,22 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 > ⚠️ Das genaue Datum für 2026 steht noch nicht offiziell fest. Im Sommer bei der Primăria nachfragen. Falls das Festival doch erst am 26.–27.9. stattfindet, passt es leider nicht (da schon Bukarest).
 
+### 🎪 Sărbătoarea Castanelor (Kastanienfest) – Baia Mare (Fr 18. – So 20.9.) ✅ Termin bestätigt
+
+31. Edition, **18.–20. September 2026**, über 100 Events — findet anscheinend auf dem **Bulevardul Unirii** (Hauptbühne) und der **Piața Libertății** im Old Center (Centrul Vechi) statt. Baia Mare liegt auf dem Weg Târgu Mureș → Remetea Chioarului → Giulești (~1 h ab Remetea, ~45 min nach Giulești).
+
+| Tag | Highlights |
+|---|---|
+| **Sa 19.9.** | 14:30 Folklore-Gala + Marcel Pavel, Luminița Anghel, Focul Viu, Ducu Bertzi · 21:45 Drohnenshow + **Paraziții** → **Irina Rimes** (Bd. Unirii) · Handwerkermarkt (9–20 Uhr), Planetarium, Ethnographie-Museum |
+| **So 20.9.** | **Piața Libertății:** Medeea Dragoș, Ensembles „Săliștenii“, „Voievozii“, „Transilvania“ · **Bd. Unirii (Abend): Andrei Bănuță, Fuego, Andra** · Museen & Handwerkermarkt tagsüber |
+
+**Idee:** Toamna-Chioreană-Festival vormittags in Remetea → Baia Mare am Nachmittag/Abend (Kastanienfest, Konzerte) → spät nach Giulești.
+
+**Links:**
+- Offizielle Festivalsite: [sarbatoareacastanelor.ro](https://sarbatoareacastanelor.ro/) · [Programm](https://sarbatoareacastanelor.ro/evenimente.php)
+- Überblick & Lineup: [Maramureș Online](https://maramuresonline.ro/sarbatoarea-castanelor-2026-aduce-trei-zile-de-evenimente-la-baia-mare-irina-rimes-zdob-si-zdub-parazitii-andra-fuego-si-ducu-bertzi-printre-artistii-invitati/)
+- Detailprogramm Sa 19.9.: [2M News](https://2mnews.ro/programul-zilei-de-sambata-sarbatoarea-castanelor-2026-ce-concerte-spectacole-evenimente-sunt-programate-astazi-in-baia-mare/)
+
 <a id="maramures-stuetzpunkt"></a>
 ### Maramureș-Stützpunkt: Giulești – Wood & Bricks Chalet (3 Nächte, So 20. – Mi 23.9.) ✅ GEbucht
 
