@@ -14,21 +14,20 @@
 |  # | Etappe                                 | Termine     | Verkehr                        | Nächte    | Kosten     | Status                             | Noch offen      |
 |---|---|---|---|---|---|---|---|
 |  1 | [Berlin → Brno (via Praha)](#etappe-1) | 12.9.       | 🚂 Tagzug (EC + Regiojet)      | –         | **53 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-|  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (stornierbar bis 10.9.) | 156 €           |
+|  2 | [**Brünn**](#etappe-2)                 | 12.9.–14.9. | –                              | 2         | **156 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  3 | [Brno → Budapest](#etappe-3)            | 14.9.       | 🚂 **rj 275** (via Bratislava)  | –         | **62 €**   | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  4 | [Budapest → Brașov](#etappe-4)         | 14.9.–15.9. | 🚂 **Nachtzug D 347**           | 1 (Zug)   | **220 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
-|  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (stornierbar bis 10.9.)  | 275 €           |
+|  5 | [**Brașov-Basis** (Tagesausflüge)](#etappe-5) | 15.9.–19.9. | 🚗 Auto                        | 4         | **275 €**  | ✅ Airbnb (bezahlt)                | ✓ bezahlt       |
 |    | 🚗 [**Mietwagen** (Enterprise, Economy)](#etappe-6) | 15.9.–25.9. |                                |           | **325 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 |  6 | [**Târgu Mureș**](#unterkunft-targu-mures) | 19.9.–20.9. | 🚗 Auto                        | 1         | **76 €**   | ✅ Atlantic Boutique (stornierbar bis 14.9.) | 76 €            |
 |  7 | [**Maramureș** (Giulești)](#maramures-stuetzpunkt) | 20.9.–23.9. | 🚗 Auto                        | 3         | **253 €**  | ✅ Chalet (stornierbar bis 13.9.)  | 253 €           |
-|  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (stornierbar bis 8.9.)  | 120 €           |
-|  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | –          | 🟡 Plan fest (Ticket offen)        | –               |
+|  8 | [**Cluj** (inkl. Salzmine Turda)](#cluj-unterkunft) | 23.9.–25.9. | 🚗 Auto                        | 2         | **120 €**  | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
+|  9 | [Cluj → Bukarest](#etappe-7)            | 25.9.       | 🚗→Brașov + 🚂 **IC 532**      | –         | **34 €**   | ✅ Gebucht (bezahlt, 170 RON)      | ✓ bezahlt       |
 | 10 | [**Bukarest (BIEFF)**](#etappe-8)       | 25.9.–30.9. | –                              | 5         | **368 €**  | ✅ Airbnb (bezahlt, stornierbar bis 20.9.) | ✓ bezahlt       |
 | 11 | [Bukarest → Budapest](#etappe-9)        | 30.9.–1.10. | 🚂 **Nachtzug „Ister" IC 472** | 1 (Zug)   | **169 €** | ✅ Gebucht (bezahlt)               | ✓ bezahlt       |
 | 12 | [**Budapest**](#etappe-10)              | 1.10.–3.10. | –                              | 2         | **189 €**  | ✅ Gebucht (bezahlt)                | ✓ bezahlt       |
 | 13 | [Budapest → Berlin](#etappe-11)         | 3.10.       | 🚂 Tagzug via Wien             | –         | **93 €**   | ✅ Gebucht                         | ✓ bezahlt       |
-
-|    |                                        |             |                                | **Summe** | **2359 €** | davon **1479 € bezahlt**            | **880 € offen**  |
+|    |                                        |             |                                | **Summe** | **2393 €** | davon **2064 € bezahlt**            | **329 € offen**  |
 
 
 ---
@@ -37,12 +36,11 @@
 
 - [x] **Zugticket Brno → Budapest** (14.9.) buchen – 62 €, bezahlt ✅
 - [x] **Nachtzug Budapest → Brașov, D 347** (14.9.) buchen – 220 €, bezahlt ✅
-- [ ] **TATI in Budapest reservieren** – Abendessen am 14.9. vor dem Nachtzug; ca. 61 € p. P., [Restaurant-Website](https://tatibudapest.com/)
 - [ ] **Szaletly reservieren** – Abendessen Anfang Oktober (Heimweg, 1.–3.10.), am Városliget; [Michelin-Eintrag](https://guide.michelin.com/de/de/central-hungary/budapest/restaurant/szaletly)
-- [ ] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – erst 30 Tage vorher kaufbar (ab 26.8.2026)
+- [x] **Zugticket Brașov → Bukarest, IC 532** (25.9.) buchen – **170 RON (~34 €), bezahlt** ✅
 - [x] **Nachtzug Bukarest → Budapest, IC 472 „Ister“** (30.9.) buchen – 169 €, bezahlt ✅
-- [ ] **Scan von Angeles Ausweis erstellen** – für den Online-Check-in in Budapest und evtl. Bukarest
-- [ ] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
+- [x] **Online-Check-in für die Unterkunft in Budapest erledigen** – Ausweis-Scan für alle Gäste erforderlich. [Budapest-Check-in öffnen](https://forms.gle/cVs1ZN5P66C2Qmy87)
+- [ ] **Palast-Führung Bukarest reservieren** (Palatul Parlamentului) – nur telefonisch, min. 24 h vorher, 09:00–16:00: **+40 733 558 102 / 103**; Wunschslot morgens am Sa 26.9.–Di 29.9., deutschsprachigen Guide anfragen (Details in Etappe 8)
 
 ---
 
@@ -59,7 +57,7 @@
 
 **Ankunft Samstagabend → direkt zum **Super Panda Circus** (Bar, Pflichtprogramm).**
 
-**Unterkunft:** [Apartmán pod Petrovem](https://www.booking.com/Share-OtC0F1) (Sa 12. – Mo 14.9., 2 Nächte, nah am Bahnhof) — **156 €**, stornierbar bis 10.9. ✅ Gebucht
+**Unterkunft:** [Apartmán pod Petrovem](https://www.booking.com/Share-OtC0F1) (Sa 12. – Mo 14.9., 2 Nächte, nah am Bahnhof) — **156 €**, ✅ bezahlt (stornierbar bis 10.9.)
 
 **Sehenswertes:**
 - Špilberk-Festung, Altstadt, **Zelný trh**-Marktplatz, Labyrinth unter dem Markt
@@ -124,11 +122,11 @@ Ein **anderer Fahrplan als der zuvor eingeplante Ister (IC 473)** – der D 347 
 
 Schöne Unterkunft als **feste Basis** – Tagesausflüge mit dem Auto, abends immer zurück nach Brașov. Deckt Süd-/Zentralsiebenbürgen komplett ab.
 
-**Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, stornierbar bis 10.9. ✅ Gebucht
+**Unterkunft:** [Airbnb, Strada Cloșca 21](https://www.airbnb.com/rooms/47249045) (Di 15. – Sa 19.9., 4 Nächte) — **275 €**, ✅ bezahlt (stornierbar bis 10.9.)
 
 **Essen / Trinken in Brașov:**
+- Reservierung angefragt 15.9. 19:30: **One Soul** – modern regional – https://www.onesoul.ro/en
 - **Panoramic Restaurant** – *Panoramic Signature Tasting Menu* (67 €) – https://www.panoramicbrasov.ro/en/offers
-- **One Soul** – modern regional – https://www.onesoul.ro/en
 - **Sub Tâmpa** – rumänische Küche mit Super-Aussicht – https://subtampa.com/
 - **Roma** – Snacks, beste Focacceria
 - **Bistro de l'Arte** – *Geheimtipp*: Frühstück, Essen, Cocktails
@@ -221,6 +219,22 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 > ⚠️ Das genaue Datum für 2026 steht noch nicht offiziell fest. Im Sommer bei der Primăria nachfragen. Falls das Festival doch erst am 26.–27.9. stattfindet, passt es leider nicht (da schon Bukarest).
 
+### 🎪 Sărbătoarea Castanelor (Kastanienfest) – Baia Mare (Fr 18. – So 20.9.) ✅ Termin bestätigt
+
+31. Edition, **18.–20. September 2026**, über 100 Events — findet anscheinend auf dem **Bulevardul Unirii** (Hauptbühne) und der **Piața Libertății** im Old Center (Centrul Vechi) statt. Baia Mare liegt auf dem Weg Târgu Mureș → Remetea Chioarului → Giulești (~1 h ab Remetea, ~45 min nach Giulești).
+
+| Tag | Highlights |
+|---|---|
+| **Sa 19.9.** | 14:30 Folklore-Gala + Marcel Pavel, Luminița Anghel, Focul Viu, Ducu Bertzi · 21:45 Drohnenshow + **Paraziții** → **Irina Rimes** (Bd. Unirii) · Handwerkermarkt (9–20 Uhr), Planetarium, Ethnographie-Museum |
+| **So 20.9.** | **Piața Libertății:** Medeea Dragoș, Ensembles „Săliștenii“, „Voievozii“, „Transilvania“ · **Bd. Unirii (Abend): Andrei Bănuță, Fuego, Andra** · Museen & Handwerkermarkt tagsüber |
+
+**Idee:** Toamna-Chioreană-Festival vormittags in Remetea → Baia Mare am Nachmittag/Abend (Kastanienfest, Konzerte) → spät nach Giulești.
+
+**Links:**
+- Offizielle Festivalsite: [sarbatoareacastanelor.ro](https://sarbatoareacastanelor.ro/) · [Programm](https://sarbatoareacastanelor.ro/evenimente.php)
+- Überblick & Lineup: [Maramureș Online](https://maramuresonline.ro/sarbatoarea-castanelor-2026-aduce-trei-zile-de-evenimente-la-baia-mare-irina-rimes-zdob-si-zdub-parazitii-andra-fuego-si-ducu-bertzi-printre-artistii-invitati/)
+- Detailprogramm Sa 19.9.: [2M News](https://2mnews.ro/programul-zilei-de-sambata-sarbatoarea-castanelor-2026-ce-concerte-spectacole-evenimente-sunt-programate-astazi-in-baia-mare/)
+
 <a id="maramures-stuetzpunkt"></a>
 ### Maramureș-Stützpunkt: Giulești – Wood & Bricks Chalet (3 Nächte, So 20. – Mi 23.9.) ✅ GEbucht
 
@@ -244,7 +258,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 <a id="cluj-unterkunft"></a>
 ### Cluj-Unterkunft (2 Nächte, Mi 23. – Do 24.9.) ✅ Gebucht
-**Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, stornierbar bis 8.9.
+**Apartment, Strada Ion I. C. Brătianu Nr. 24** — **120 €**, ✅ bezahlt (stornierbar bis 8.9.)
 
 ### Optional: Bucovina (bemalte Klöster) als Tagestour
 - Wenn der Stützpunkt östlich liegt, ist **Voroneț** (blaues Fresko) ~2½ h entfernt → machbarer, aber **langer Tag**.
@@ -268,7 +282,7 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 
 - **Fahrt gesamt:** ~8 h (Auto + Zug), mit Puffer entspannt – **nicht stressig**.
 - ⏰ **09:00-Abfahrt** lässt ~2 h Reserve vor dem Zug (Rückgabe + Mittagessen).
-- 🎫 **Ticket noch offen** – buchen bei CFR Călători (cfrcalatori.ro) oder DB.
+- 🎫 **Ticket gebucht ✅ — 170 RON (~34 €), bezahlt.**
 
 > *Verworfen – Variante B (One-Way in Cluj):* Auto in Cluj abgeben + Tageszug Cluj→Bukarest (~9–10 h). Nachteil: One-Way-Gebühr (~50–100 €) + längerer Zugtag.
 
@@ -298,7 +312,13 @@ Auf dem Weg von Târgu Mureș nach Giulești: **Umweg über Remetea Chioarului**
 🏨 **Unterkunft:** [Airbnb](https://www.airbnb.de/rooms/1189569006216780342?adults=2&check_in=2026-09-25&check_out=2026-09-30) (25.9.–30.9.2026, 5 Nächte, 2 Gäste) — **368 €**, bezahlt, stornierbar bis **20.9.** ✅ *(Vorherige Buchung wurde storniert.)*
 
 KI-Tips:
-- **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen
+- **Palatul Parlamentului** (Volkspalast) – Tour vorab buchen, offiziell über **CIC** ([cic.cdep.ro](https://cic.cdep.ro/)):
+  - ☎️ **Reservierung (1–9 Pers.) nur telefonisch, min. 24 h vorher** (09:00–16:00): **+40 733 558 102 / 103** – bei Gelegenheit **deutschsprachigen Guide** anfragen
+  - **Kein Online-Verkauf!** Tickets am Tag selbst an der Kasse: **„Constantin Brâncuși"-Halle, Str. Izvor 2–4**
+  - 💶 Standard-Tour **85 Lei (~17 €)** p. P. (Stand laut CIC; Panorama-Terrasse / Untergeschoss als Aufpreis – am Telefon gegenchecken); **Foto-/Videokamera +30 Lei**
+  - 🕘 Öffnung täglich **09:00–16:30**, Tour ~1,5–2 h; 10 min vorher am Info-Desk sein (No-Show = Reservierung weg)
+  - 🪪 **Ausweis mitführen** (kein Führerschein); **kein Gepäckraum** → nur kleiner Rucksack
+  - ⚠️ **Parlamentssitzungen können Touren kurzfristig absagen** → nicht als einzigen Programmpunkt am Tag planen; guter Slot: **Sa 26.9.–Di 29.9. morgens (9:00/10:00)**
 - **Altstadt / Lipscani-Viertel**, Hanul lui Manuc, Stavropoleos-Kirche
 - **Muzeul Național de Artă**, **Muzeul Țăranului Român** (Bauernmuseum)
 - **Therme București** (Erholung), Tagesausflug **Sinaia** (Peleș) per Zug ~1½ h
